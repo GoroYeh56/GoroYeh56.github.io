@@ -10,11 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-:::success
-Still working on it!
-:::
 
-![Denmark group photo](丹麥團體照.jpg)
+### Still working on it!
+
+![Denmark group photo](https://i.imgur.com/KZe9UuU.jpg)
 
 
 <!--  
