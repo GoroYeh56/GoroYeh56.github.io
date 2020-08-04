@@ -1,15 +1,22 @@
 ---
-title: "Paper Title Number 3"
+title: "Motor Speed Control Laboratory"
 collection: projects
-permalink: /projects/2015-10-01-paper-title-number-3
+permalink: /projects/motor_speed_control
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2019-12-17
+venue: 'Control System I, National Tsing Hua University'
+location: "Hsinchu, Taiwan"
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This project consist of three parts:
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+1. Build a DC brushed motor by hand.
+
+2. Make an encoder and set up velocity sensor feedback using LM2907 frequency to voltage converter.
+
+3. Design a P / PI controller and control the motor with good velocity response.
+
+[motor_speed_control_report](http://academicpages.github.io/files/paper3.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
