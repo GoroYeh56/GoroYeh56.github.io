@@ -1,7 +1,7 @@
 ---
 title: "Recycling Folded Cascode"
 # date: 2020-01-12
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Final Project of Microelectronics II<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 <!-- Todo: revise the image. -->
