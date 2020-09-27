@@ -7,10 +7,9 @@ redirect_from:
   - /resume
 # paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
-[Goro Yeh's CV](http://academicpages.github.io/files/Goro_CV_medium_general.pdf)
-  <!-- <iframe src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" width="640" height="480"></iframe> -->
+[Goro Yeh's CV](http://GoroYeh56.github.io\files\Goro_CV_medium_general.pdf)
 {% include base_path %}
-
+<!-- C:\Users\User\Desktop\GoroYeh56.github.io\files\Goro_CV_medium_general.pdf -->
 <!-- {%pdf http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf %} -->
 
 <!-- 
