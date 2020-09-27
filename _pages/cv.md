@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
-
+{% comment %}
 <!-- {% include base_path %} -->
 
 
@@ -61,3 +61,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
  -->
+ {% endcomment %}
