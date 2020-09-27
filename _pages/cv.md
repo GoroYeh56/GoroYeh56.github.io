@@ -5,10 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-# paperurl: 'http://academicpages.github.io/files/cv.pdf'  
+paperurl: 'http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf'  
 ---
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-[Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
+<!-- [Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf) -->
 {% include base_path %}
 <!-- C:\Users\User\Desktop\GoroYeh56.github.io\files\Goro_CV_medium_general.pdf -->
 <!-- {%pdf http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf %} -->
