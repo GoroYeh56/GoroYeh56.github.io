@@ -8,10 +8,10 @@ redirect_from:
 # paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
-
+<!-- 
 Education
 ======
 * B.S. in IPE, National Tsing Hua University, 2012
@@ -60,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
