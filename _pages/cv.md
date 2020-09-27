@@ -8,10 +8,14 @@ redirect_from:
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
 
-<embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" />
-
+<!-- <embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" /> -->
+<object data="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 Below is my curriculum vitae in .pdf file:
-![Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)
+[Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)
 {% comment %}
 <!-- {% include base_path %} -->
 <!-- 
