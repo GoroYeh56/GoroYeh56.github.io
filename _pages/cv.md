@@ -10,8 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
+{%pdf http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf %}
 
-
+<!-- 
 Education
 ======
 * B.S. in IPE, National Tsing Hua University, 2012
@@ -60,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
