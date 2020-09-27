@@ -2,18 +2,16 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-# author_profile: true
+author_profile: true
 redirect_from:
   - /resume
-# paperurl: 'http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf'  
+# paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
-<!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
-<!-- [Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf) -->
-{% include base_path %}
-<!-- C:\Users\User\Desktop\GoroYeh56.github.io\files\Goro_CV_medium_general.pdf -->
-<!-- {%pdf http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf %} -->
 
-<!-- 
+{% include base_path %}
+
+
+
 Education
 ======
 * B.S. in IPE, National Tsing Hua University, 2012
@@ -62,4 +60,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
- -->
