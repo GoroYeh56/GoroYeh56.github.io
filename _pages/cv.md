@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
+
+[CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)
 {% comment %}
 <!-- {% include base_path %} -->
-
-
 <!-- 
 Education
 ======
