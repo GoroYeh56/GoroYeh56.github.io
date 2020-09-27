@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf'  
+# paperurl: 'http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf'  
 ---
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 <!-- [Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf) -->
