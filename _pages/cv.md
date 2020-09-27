@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" />
-http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf
+
+Below is my curriculum vitae in .pdf file:
+![Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)
 {% comment %}
 <!-- {% include base_path %} -->
 <!-- 
