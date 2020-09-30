@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
+
+![](https://i.imgur.com/GpR5hPP.jpg)
+![](https://i.imgur.com/blfYRsg.jpg)
+
 Below is my curriculum vitae in .pdf file:
 
 [Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf)

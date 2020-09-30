@@ -8,14 +8,31 @@ redirect_from:
   - /about.html
 ---
 
+## About me
+
+![](https://i.imgur.com/CjcJXWK.jpg)
+
+<font size=4>
 Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
-I am enthusiastic about **robotics** and **engineering stuff**.
+I am enthusiastic about **robotics** and **engineering**.
 
-I also love to watch movies, especially comedy with life lessons.
+I'm currently pursuing my batchelor's degree in Computer Engineering, Mechanical Engineering.
 
-My top 3 movies are:
-* The Secret Life of Walter Mitty.
-* Jumanji
-* Big hero 6
+My specialties revolves around **mechatronic control systems, embedded systems, and machine intelligence**.
+</font>
+
+## Skills
+
+
+* Programming Languages : C / C++ / Python
+* Robotics : ROS / Gazebo / Webots / Linux
+* Tools : Matlab / Simulink / Solidworks / Inventor
+* Web programming : HTML / CSS / javaScript
+
+## Hobbies
+
+* Sports : Baseball, Football, Hiking
+* Movies
+* Music
 
