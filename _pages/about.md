@@ -42,6 +42,16 @@ I'm also studying the Space and Technology minor program.🚀🛰
 Position:  Robotics Intern
 Time:      July 2020 ~ Present -->
 
+## Activities
+
+* Young Entrepreneur of the Future
+![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
+* NTHU Racing Team
+![NTHU Racing](http://goroyeh56.github.io/images/racing2.png)
+* Baseball Varsity Team
+![NTHU Baseball](http://goroyeh56.github.io/images/swing.JPG)
+* Tsing Hua International Young Ambassador
+![TIYA](http://goroyeh56.github.io/images/tiya.jpg)
 
 ## Hobbies
 
@@ -50,20 +60,20 @@ Time:      July 2020 ~ Present -->
 * Music : Coldplay, Imagine Dragons, Green Day,...etc.
 
 
-### Top Movies:
-* 《The Secret Life of Walter Mitty》
-* 《Jumanji》
-* 《The Martian》
-* 《Big Hero 6》
-* 《Central Intelligence》
-* 《Hidden Figures》
-* 《San Andreas》
-* 《Aquaman》
-* 《Night School》
-* 《When We First Met》
-* 《Sierra Burgess Is a Loser》
-* 《The Blind Side》
-* 《Isn't It Romantic》
-* 《Alita: Battle Angel》
+  ### Top Movies:
+  * 《The Secret Life of Walter Mitty》
+  * 《Jumanji》
+  * 《The Martian》
+  * 《Big Hero 6》
+  * 《Central Intelligence》
+  * 《Hidden Figures》
+  * 《San Andreas》
+  * 《Aquaman》
+  * 《Night School》
+  * 《When We First Met》
+  * 《Sierra Burgess Is a Loser》
+  * 《The Blind Side》
+  * 《Isn't It Romantic》
+  * 《Alita: Battle Angel》
 
 
