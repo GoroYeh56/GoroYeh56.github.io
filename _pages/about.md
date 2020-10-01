@@ -23,12 +23,11 @@ and Mechanical Engineering.
 I'm also studying the Space and Technology minor program.🚀🛰
 
 
-:::success
 **My specialties** revolves around:
 * mechatronic control systems
 * embedded systems
 * machine intelligence
-:::
+
 <!-- </font> -->
 
 ## Skills
@@ -49,21 +48,21 @@ Time:      July 2020 ~ Present -->
 * Movies : Any movie (except horror movies and violence films)
 * Music : Coldplay, Imagine Dragons, Green Day,...etc.
 
-:::info
-Top Movies:
-《The Secret Life of Walter Mitty》
-《Jumanji》
-《The Martian》
-《Big Hero 6》
-《Central Intelligence》
-《Hidden Figures》
-《San Andreas》
-《Aquaman》
-《Night School》
-《When We First Met》
-《Sierra Burgess Is a Loser》
-《The Blind Side》
-《Isn't It Romantic》
-《Alita: Battle Angel》
-:::
+
+### Top Movies:
+* 《The Secret Life of Walter Mitty》
+* 《Jumanji》
+* 《The Martian》
+* 《Big Hero 6》
+* 《Central Intelligence》
+* 《Hidden Figures》
+* 《San Andreas》
+* 《Aquaman》
+* 《Night School》
+* 《When We First Met》
+* 《Sierra Burgess Is a Loser》
+* 《The Blind Side》
+* 《Isn't It Romantic》
+* 《Alita: Battle Angel》
+
 
