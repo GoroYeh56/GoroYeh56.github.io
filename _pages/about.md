@@ -12,27 +12,58 @@ redirect_from:
 
 ![](https://i.imgur.com/CjcJXWK.jpg)
 
-<font size=4>
+<!-- <font size=4> -->
 Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
 I am enthusiastic about **robotics** and **engineering**.
 
-I'm currently pursuing my batchelor's degree in Computer Engineering, Mechanical Engineering.
+I'm currently pursuing my batchelor's degree in Computer Engineering
+and Mechanical Engineering.
 
-My specialties revolves around **mechatronic control systems, embedded systems, and machine intelligence**.
-</font>
+I'm also studying the Space and Technology minor program.🚀🛰
+
+
+:::success
+**My specialties** revolves around:
+* mechatronic control systems
+* embedded systems
+* machine intelligence
+:::
+<!-- </font> -->
 
 ## Skills
-
-
 * Programming Languages : C / C++ / Python
 * Robotics : ROS / Gazebo / Webots / Linux
 * Tools : Matlab / Simulink / Solidworks / Inventor
 * Web programming : HTML / CSS / javaScript
 
+<!-- ## Work Experience
+### Industrial Technology Research Institute
+Position:  Robotics Intern
+Time:      July 2020 ~ Present -->
+
+
 ## Hobbies
 
-* Sports : Baseball, Football, Hiking
-* Movies
-* Music
+* Sports : Baseball⚾, Football🏈, Hiking🗻
+* Movies : Any movie (except horror movies and violence films)
+* Music : Coldplay, Imagine Dragons, Green Day,...etc.
+
+:::info
+Top Movies:
+《The Secret Life of Walter Mitty》
+《Jumanji》
+《The Martian》
+《Big Hero 6》
+《Central Intelligence》
+《Hidden Figures》
+《San Andreas》
+《Aquaman》
+《Night School》
+《When We First Met》
+《Sierra Burgess Is a Loser》
+《The Blind Side》
+《Isn't It Romantic》
+《Alita: Battle Angel》
+:::
 
