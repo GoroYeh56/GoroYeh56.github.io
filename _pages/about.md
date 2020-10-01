@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+
 
 ![](https://i.imgur.com/CjcJXWK.jpg)
 
+## About me
 <!-- <font size=4> -->
 Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
