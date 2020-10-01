@@ -3,7 +3,7 @@ title: "Magnus Effect Aircraft"
 collection: research
 permalink: /research/magnus_plane
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: Feb. 2019 ~ Dec. 2019
+# date: Feb. 2019 ~ Dec. 2019
 ---
 This research is about building an aircraft that could
 fly with the lift force from the **magnus effect** in fluid mechanics.
