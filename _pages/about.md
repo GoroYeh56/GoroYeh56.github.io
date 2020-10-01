@@ -18,10 +18,10 @@ Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
 I am enthusiastic about **robotics** and **engineering**.
 
-I'm currently pursuing my batchelor's degree in Computer Engineering
+I'm currently pursuing my bachelor's degree in Computer Engineering
 and Mechanical Engineering.
 
-I'm also studying the Space and Technology minor program.🚀🛰
+I'm also studying the Space and Technology minor program.🚀
 
 
 **My specialties** revolves around:
