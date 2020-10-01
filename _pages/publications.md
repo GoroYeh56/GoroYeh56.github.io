@@ -13,12 +13,5 @@ author_profile: true
 
 ### Still working on it!
 
-### Testing!
 ![Denmark group photo](https://i.imgur.com/KZe9UuU.jpg)
 
-
-<!--  
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
