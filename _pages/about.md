@@ -47,7 +47,7 @@ Time:      July 2020 ~ Present -->
 * Young Entrepreneur of the Future
 ![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
 * NTHU Racing Team
-![NTHU Racing](http://goroyeh56.github.io/images/racing2.png)
+![NTHU Racing](http://goroyeh56.github.io/images/racing2.jpg)
 * Baseball Varsity Team
 ![NTHU Baseball](http://goroyeh56.github.io/images/swing.JPG)
 * Tsing Hua International Young Ambassador
