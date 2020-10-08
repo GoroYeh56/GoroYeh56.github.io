@@ -39,7 +39,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 
 ## Certificate
-![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/deeplearning.JPG)
+![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/coursera_deeplearning.jpg)
 
 ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg)
 
