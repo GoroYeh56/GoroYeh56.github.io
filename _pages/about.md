@@ -24,10 +24,14 @@ and Mechanical Engineering.
 I'm also studying the Space and Technology minor program.🚀
 
 
-**My specialties** revolves around:
+**My research interests** revolve around:
+* Intelligent Robotics
+* Autonomous Vehicles / Platforms
+* Mobile robots
+* machine intelligence
 * mechatronic control systems
 * embedded systems
-* machine intelligence
+
 
 <!-- </font> -->
 
@@ -43,7 +47,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg)
 
-![Robotics - Coursera]()
+![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
 
 <!-- ## Work Experience
 ### Industrial Technology Research Institute
