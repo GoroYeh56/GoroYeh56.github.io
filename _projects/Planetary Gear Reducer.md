@@ -9,7 +9,7 @@ collection: projects
 ---
 <!-- Todo: revise the image. -->
 
-# Report url: [Planetary Gear Reducer Final Report](https://drive.google.com/file/d/1-X0-GxfcLa7BiPdFTz5ZzCKahNzYmHvc/view?usp=sharing)
+## Report url: [Planetary Gear Reducer Final Report](https://drive.google.com/file/d/1-X0-GxfcLa7BiPdFTz5ZzCKahNzYmHvc/view?usp=sharing)
 This is a final project of Mechanical Design .
 We desgined and constructed a **Planetary Gear Reducer** of a racing car.
 We analyzed the parameters of each parts of the assembly under the given specifications,
