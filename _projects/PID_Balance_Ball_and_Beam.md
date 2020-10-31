@@ -21,8 +21,8 @@ For the actuator, I picked the high-torque output servo motor MG995.
 <!-- Todo: revise the demo video -->
 Demo 
 ======
-* [video](https://www.youtube.com/watch?v=5ZsmPJ2sm04&fbclid=IwAR0dP_NIaNfAYmW3wBxJhcEWSS3uVGnSsG4pbj3z9qTsjU4pa9ef_fZ0P44)
+* [video](http://academicpages.github.io/videos/PID_demo.mp4)
 
 Github
 =====
-* [repo](https://github.com/evamo0508/minions_game)
+* [repo](https://github.com/GoroYeh56/Logic-Design-Lab/tree/master/Final_Code)
