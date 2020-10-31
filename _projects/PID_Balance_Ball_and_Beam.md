@@ -19,10 +19,8 @@ For the actuator, I picked the high-torque output servo motor MG995.
 
 
 <!-- Todo: revise the demo video -->
-Demo 
-======
-* [video](http://academicpages.github.io/videos/PID_demo.mp4)
+#　Demo 
+* [video](https://drive.google.com/file/d/1RtwWg23D8mydZzZKeqhjqnO8gMKAcS69/view?usp=sharing)
 
-Github
-=====
+# Github 
 * [repo](https://github.com/GoroYeh56/Logic-Design-Lab/tree/master/Final_Code)

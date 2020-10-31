@@ -9,7 +9,7 @@ collection: projects
 ---
 <!-- Todo: revise the image. -->
 
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
+# Report url: [Planetary Gear Reducer Final Report](https://drive.google.com/file/d/1-X0-GxfcLa7BiPdFTz5ZzCKahNzYmHvc/view?usp=sharing)
 This is a final project of Mechanical Design .
 We desgined and constructed a **Planetary Gear Reducer** of a racing car.
 We analyzed the parameters of each parts of the assembly under the given specifications,
@@ -19,6 +19,6 @@ I drew most of the CAD and engineering drawings, and simulated the performance a
 
 For more details, refer to the link below.
 
-<!-- [Github repository - ADCS Final project](https://,,,) -->
+[Github repository - Mechanical Design Final project](https://github.com/GoroYeh56/Mechanical-Design/blob/master/Handin/Planetary-Gear-Reducer_TEAM10_finalversion.pptx)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
