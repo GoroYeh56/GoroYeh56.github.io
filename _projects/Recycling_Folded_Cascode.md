@@ -10,3 +10,5 @@ We designed 11 aspect ratios (W/L ratios) of the MOSFETs of the
 Recycling Folded Cascode (RFC) configuration.
 
 For more details, below is the link to our report in English.
+
+[Recycling Folded Cascode](https://drive.google.com/file/d/1-BRgO5dpxUdJMXHHe9VOSc8B6z4VIoUY/view?usp=sharing)
