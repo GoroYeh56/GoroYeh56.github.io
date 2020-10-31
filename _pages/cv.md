@@ -8,12 +8,13 @@ redirect_from:
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
 
-![](https://i.imgur.com/GpR5hPP.jpg)
-![](https://i.imgur.com/blfYRsg.jpg)
+* Below is my curriculum vitae in .pdf file:
+[Goro Yeh's CV](https://drive.google.com/file/d/1ldmLSOnhyd15EzX5DRKzFnmkmAB2XVWp/view?usp=sharing)
 
-Below is my curriculum vitae in .pdf file:
 
-[Goro Yeh's CV](http://goroyeh56.github.io/files/Goro_CV_medium_general_v2.pdf)
+![](http://goroyeh56.github.io/images/CV1.jpg)
+![](http://goroyeh56.github.io/images/CV2.jpg)
+<!-- Google Drive -->
 
 
 <!-- {% comment %} -->
