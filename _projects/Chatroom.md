@@ -4,12 +4,12 @@ title: "Chatroom"
 # date: 2020-04-22
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2)
-excerpt: "Midterm project of Software Studio<br/><img src='/images/500x300.png'>"
+excerpt: "Midterm project of Software Studio<br/><img src='/images/Chatroom.png'>"
 collection: projects
 ---
 <!-- Todo: revise the image. -->
 
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
+# url: https://midterm-project-chatroom-b23ab.web.app/
 This is a midterm project of Software Studio.
 I accomplished a private web chatroom application where people can
 sign up their accounts and chat with others in private chatroom.
@@ -27,6 +27,6 @@ For more details, refer to the link below.
 
 <!-- Demo Video -->
 
-[GitLab repository - Chatroom - midterm project](https://,,,)
+[GitLab repository - Chatroom - midterm project](https://gitlab.com/106030009/midterm-project-chatroom_106030009)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

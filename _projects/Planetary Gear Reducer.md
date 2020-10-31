@@ -19,6 +19,6 @@ I drew most of the CAD and engineering drawings, and simulated the performance a
 
 For more details, refer to the link below.
 
-[Github repository - ADCS Final project](https://,,,)
+<!-- [Github repository - ADCS Final project](https://,,,) -->
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

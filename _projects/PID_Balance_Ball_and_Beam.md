@@ -17,8 +17,6 @@ I implemented the PID control algorithm using Verilog description language in a 
 For the sensor, I used an infrared distance sensor.
 For the actuator, I picked the high-torque output servo motor MG995.
 
-We designed 11 aspect ratios (W/L ratios) of the MOSFETs of the
-Recycling Folded Cascode (RFC) configuration.
 
 <!-- Todo: revise the demo video -->
 Demo 

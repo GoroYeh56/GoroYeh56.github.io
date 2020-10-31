@@ -15,6 +15,6 @@ This project consist of three parts:
 
 3. Design a P / PI controller and control the motor with good velocity response.
 
-[motor_speed_control_report](http://academicpages.github.io/files/paper3.pdf)
+[motor_speed_control_report](http://academicpages.github.io/files/Motor_Experiment_Report_106030009葉蓁.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

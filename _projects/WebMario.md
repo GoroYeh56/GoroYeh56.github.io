@@ -4,12 +4,12 @@ title: "Web Mario"
 # date: 2020-05-27
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Assignment 2 of Software Studio 1<br/><img src='/images/500x300.png'>"
+excerpt: "Assignment 2 of Software Studio 1<br/><img src='/images/WebMario.png'>"
 collection: projects
 ---
 <!-- Todo: revise the image. -->
 
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
+# url: https://assignment2-mario.web.app/
 This is a assignment 2 of Software Studio.
 I accomplished a web **mario** game.
 People can sign up an account, and play the mario-like game.
@@ -23,6 +23,6 @@ I accomplished the website using **Cocos Creator engine** and **typescript**.
 
 <!-- Demo Video -->
 
-[GitLab repository - Web Mario - Assignment 2](https://,,,)
+[GitLab repository - Web Mario - Assignment 2](https://gitlab.com/106030009/as_02_webmario)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

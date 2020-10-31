@@ -4,12 +4,13 @@ title: "Web Canvas"
 # date: 2020-03-17
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Assignment 1 of Software Studio<br/><img src='/images/500x300.png'>"
+excerpt: "Assignment 1 of Software Studio<br/><img src='/images/WebCanvas.png'>"
 collection: projects
 ---
 <!-- Todo: revise the image. -->
 
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
+# url: https://106030009.gitlab.io/AS_01_WebCanvas/
+
 This is a assignment 1 of Software Studio.
 I accomplished a web canvas application where people can
 enjoy themselves being the greatest artist in their mind
@@ -27,6 +28,6 @@ For more details, refer to the link below.
 
 <!-- Demo Video -->
 
-[GitLab repository - Chatroom - midterm project](https://,,,)
+[GitLab repository - Web Canvas](https://gitlab.com/106030009/AS_01_WebCanvas)
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
