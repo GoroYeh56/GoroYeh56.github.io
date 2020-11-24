@@ -49,7 +49,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 *Course: Mobile Robots - 2020 Fall*
 
-#### (1) Checkpoint 3: Find LED light puck with motion control
+**(1) Checkpoint 3: Find LED light puck with motion control**
 
 * Use only 14 seconds to complete both **obstacle avoidance** and **target achievement**.
 
@@ -62,12 +62,12 @@ I'm also studying the Space and Technology minor program.🚀
 
 *Course: Robotic Systems Design and Implementation - 2020 Fall*
 
-#### (1) Motion Control on LocoBot
+**(1) Motion Control on LocoBot**
 
 [Motion Control demo01 video]()
 
 
-#### (2) vSLAM Navigation on LocoBot
+**(2) vSLAM Navigation on LocoBot**
 
 [vSLAM demo02 video]()
 
@@ -77,12 +77,12 @@ I'm also studying the Space and Technology minor program.🚀
 **
 *Course: Parallel Programming - 2020 Fall*
 
-#### (1) Odd Even Sort
+**(1) Odd Even Sort**
 
 * Use **MPI** to complete odd-even sort across different processes.
 [Github repository - OddEvenSort]()
 
-#### (2) Mandelbrot Set
+**(2) Mandelbrot Set**
 * Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
 * Complete with two version: 
   2a : Pthread only
