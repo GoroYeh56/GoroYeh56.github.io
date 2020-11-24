@@ -42,6 +42,60 @@ I'm also studying the Space and Technology minor program.🚀
 * Web programming : HTML / CSS / javaScript
 
 
+
+## Recent Projects
+
+### 1. Hockey Mobile Robot
+
+*Course: Mobile Robots - 2020 Fall*
+
+#### (1) Checkpoint 3: Find LED light puck with motion control
+
+* Use only 14 seconds to complete both **obstacle avoidance** and **target achievement**.
+
+![CP3 Assembly Picture]()
+![CP3 Assembly Picture]()
+[checkpoint 3 demo video]()
+
+
+### 2. Locobot
+
+*Course: Robotic Systems Design and Implementation - 2020 Fall*
+
+#### (1) Motion Control on LocoBot
+
+[Motion Control demo01 video]()
+
+
+#### (2) vSLAM Navigation on LocoBot
+
+[vSLAM demo02 video]()
+
+
+
+### 3. Parallel Programming 
+**
+*Course: Parallel Programming - 2020 Fall*
+
+#### (1) Odd Even Sort
+
+* Use **MPI** to complete odd-even sort across different processes.
+[Github repository - OddEvenSort]()
+
+#### (2) Mandelbrot Set
+* Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
+* Complete with two version: 
+  2a : Pthread only
+  2b : Hybrid with MPI and OpenMP
+
+* **Ranked 5th out of 64 students** in the class
+* Handcrafted dynamic task assignment with Master and Slave workpool using MPI Send() and Recv().
+
+[Github repository - Mandelbrot Set]()
+
+
+
+
 ## Certificate
 ![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/coursera_deeplearning.jpg)
 
