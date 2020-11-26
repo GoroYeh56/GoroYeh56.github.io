@@ -9,11 +9,17 @@ redirect_from:
 ---
 
 
-
+<!-- My photo in Denmark -->
 ![](https://i.imgur.com/CjcJXWK.jpg)
 
 # Table of Contents
-[TOC]
+{:toc}
+* About me
+* Skills
+* Recent Projects
+* Certificates
+* Activities
+
 
 # About me
 <!-- <font size=4> -->
@@ -47,7 +53,6 @@ I'm also studying the Space and Technology minor program.🚀
 
 
 # Recent Projects
-
 ## 1. Hockey Mobile Robot
 
 *Course: Mobile Robots - 2020 Fall*
@@ -119,12 +124,19 @@ The robot localizes itself using **odometry**.
 
 
 
-# Certificate
+# Certificates
+## 1. Robotics - Coursera
+
+![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
+
+## 2. Deep Learning (Neural Networks) - Coursera
+
 ![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/coursera_deeplearning.jpg)
+
+## 3. Basics Computer Vision - Nvidia course
 
 ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg)
 
-![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
 
 <!-- ## Work Experience
 ### Industrial Technology Research Institute
