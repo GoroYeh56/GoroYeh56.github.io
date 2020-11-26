@@ -13,8 +13,8 @@ redirect_from:
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
 Table of Contents
-=================
-
+---
+<!-- ================= -->
 - [Table of Contents](#table-of-contents)
 - [About me](#about-me)
 - [Skills](#skills)
@@ -59,6 +59,7 @@ I'm also studying the Space and Technology minor program.🚀
 <!-- </font> -->
 
 # Skills
+---
 * Programming Languages : C / C++ / Python
 * Robotics : ROS / Gazebo / Webots / Linux
 * Tools : Matlab / Simulink / Solidworks / Inventor
@@ -67,6 +68,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 
 # Recent Projects
+---
 ## 1. Hockey Mobile Robot
 
 *Course: Mobile Robots - 2020 Fall*
@@ -139,6 +141,7 @@ The robot localizes itself using **odometry**.
 
 
 # Certificates
+---
 ## 1. Robotics - Coursera
 
 ![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
@@ -158,7 +161,7 @@ Position:  Robotics Intern
 Time:      July 2020 ~ Present -->
 
 # Activities
-
+---
 * Young Entrepreneur of the Future
 ![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
 * NTHU Racing Team
