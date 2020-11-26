@@ -12,7 +12,10 @@ redirect_from:
 
 ![](https://i.imgur.com/CjcJXWK.jpg)
 
-## About me
+# Table of Contents
+[TOC]
+
+# About me
 <!-- <font size=4> -->
 Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
@@ -35,7 +38,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 <!-- </font> -->
 
-## Skills
+# Skills
 * Programming Languages : C / C++ / Python
 * Robotics : ROS / Gazebo / Webots / Linux
 * Tools : Matlab / Simulink / Solidworks / Inventor
@@ -43,9 +46,9 @@ I'm also studying the Space and Technology minor program.🚀
 
 
 
-## Recent Projects
+# Recent Projects
 
-### 1. Hockey Mobile Robot
+## 1. Hockey Mobile Robot
 
 *Course: Mobile Robots - 2020 Fall*
 
@@ -74,7 +77,7 @@ The two **obstacle avoidance touch sensors**:
 
 
 
-### 2. Locobot
+## 2. Locobot
 
 *Course: Robotic Systems Design and Implementation - 2020 Fall*
 
@@ -92,7 +95,7 @@ The robot localizes itself using **odometry**.
 **Notes:** The robot navigates the environment using vSLAM with depth camera Intel Realsense D435, **NOT simply follows the line!!** (The line is for human to verify the precision of the robot performance, it's for grading.)
 
 
-### 3. Parallel Programming 
+## 3. Parallel Programming 
 
 *Course: Parallel Programming - 2020 Fall*
 
@@ -116,7 +119,7 @@ The robot localizes itself using **odometry**.
 
 
 
-## Certificate
+# Certificate
 ![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/coursera_deeplearning.jpg)
 
 ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg)
@@ -128,7 +131,7 @@ The robot localizes itself using **odometry**.
 Position:  Robotics Intern
 Time:      July 2020 ~ Present -->
 
-## Activities
+# Activities
 
 * Young Entrepreneur of the Future
 ![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
@@ -139,14 +142,14 @@ Time:      July 2020 ~ Present -->
 * Tsing Hua International Young Ambassador
 ![TIYA](http://goroyeh56.github.io/images/tiya.jpg)
 
-## Hobbies
+# Hobbies
 
 * Sports : Baseball⚾, Football🏈, Hiking🗻
 * Movies : Any movie (except horror movies and violence films)
 * Music : Coldplay, Imagine Dragons, Green Day,...etc.
 
 
-  ### Top Movies:
+  ## Top Movies:
   * 《The Secret Life of Walter Mitty》
   * 《Jumanji》
   * 《The Martian》
@@ -161,5 +164,6 @@ Time:      July 2020 ~ Present -->
   * 《The Blind Side》
   * 《Isn't It Romantic》
   * 《Alita: Battle Angel》
+  * 《Pitch Perfect 1-3》  
 
 

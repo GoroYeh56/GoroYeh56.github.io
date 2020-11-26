@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 * Below is my curriculum vitae in .pdf file:
-[Goro Yeh's CV](https://drive.google.com/file/d/1ldmLSOnhyd15EzX5DRKzFnmkmAB2XVWp/view?usp=sharing)
+[Goro Yeh's CV](https://drive.google.com/file/d/12NhqUSpYzCcu-NS_GcCuPVGqqRT2REmf/view?usp=sharing)
 
 
-![](http://goroyeh56.github.io/images/CV1.jpg)
-![](http://goroyeh56.github.io/images/CV2.jpg)
+![](http://goroyeh56.github.io/images/CV01.jpg)
+![](http://goroyeh56.github.io/images/CV02.jpg)
 <!-- Google Drive -->
 
 
