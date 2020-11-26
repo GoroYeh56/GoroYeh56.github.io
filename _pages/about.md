@@ -10,19 +10,33 @@ redirect_from:
 
 
 <!-- My photo in Denmark -->
-![](https://i.imgur.com/CjcJXWK.jpg)
+![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
-# Table of Contents
-* TOC {:toc}
+Table of Contents
+---
+<!-- ================= -->
+- [Table of Contents](#table-of-contents)
+- [About me](#about-me)
+- [Skills](#skills)
+- [Recent Projects](#recent-projects)
+  * [1. Hockey Mobile Robot](#1-hockey-mobile-robot)
+  * [2. Locobot](#2-locobot)
+  * [3. Parallel Programming](#3-parallel-programming)
+- [Certificates](#certificates)
+  * [1. Robotics - Coursera](#1-robotics---coursera)
+  * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
+  * [3. Basics Computer Vision - Nvidia course](#3-basics-computer-vision---nvidia-course)
+    + [Industrial Technology Research Institute](#industrial-technology-research-institute)
+- [Activities](#activities)
+- [Hobbies](#hobbies)
+  * [Top Movies:](#top-movies-)
 
-* About me
-* Skills
-* Recent Projects
-* Certificates
-* Activities
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 # About me
+---
 <!-- <font size=4> -->
 Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
@@ -59,8 +73,8 @@ GRE Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 
 # Recent Projects
+---
 ## 1. Hockey Mobile Robot
-
 *Course: Mobile Robots - 2020 Fall*
 
 **(1) Checkpoint 3: Find LED light puck with motion control**
@@ -89,12 +103,11 @@ The two **obstacle avoidance touch sensors**:
 
 
 ## 2. Locobot
-
 *Course: Robotic Systems Design and Implementation - 2020 Fall*
 
 **(1) Motion Control on LocoBot**
 
-[Motion Control demo01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)
+[Motion Control demo01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)  
 
 This task is to control the robot to move to the specify points with correct orientations.
 The robot localizes itself using **odometry**.
@@ -107,30 +120,27 @@ The robot localizes itself using **odometry**.
 
 
 ## 3. Parallel Programming 
-
 *Course: Parallel Programming - 2020 Fall*
 
-**(1) Odd Even Sort**
-
-* Use **MPI** to complete odd-even sort across different processes.
-
+**(1) Odd Even Sort**  
+* Use **MPI** to complete odd-even sort across different processes.  
 [Github repository - OddEvenSort](https://github.com/GoroYeh56/Odd_Even_Sort---Parallel_Programming)
 
-**(2) Mandelbrot Set**
+**(2) Mandelbrot Set**  
 * Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
 * Complete with two version: 
   2a : Pthread only
   2b : Hybrid with MPI and OpenMP
 
 * **Ranked 5th out of 64 students** in the class
-* Handcrafted dynamic task assignment with Master and Slave workpool using MPI Send() and Recv().
-
+* Handcrafted dynamic task assignment with Master and Slave workpool using MPI Send() and Recv().  
 [Github repository - Mandelbrot Set](https://github.com/GoroYeh56/Mandelbrot_Set---Parallel_Programming)
 
 
 
 
-# Certificates
+# Certificates 
+---
 ## 1. Robotics - Coursera
 
 ![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
@@ -150,7 +160,7 @@ Position:  Robotics Intern
 Time:      July 2020 ~ Present -->
 
 # Activities
-
+---
 * Young Entrepreneur of the Future
 ![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
 * NTHU Racing Team
