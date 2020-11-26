@@ -46,10 +46,15 @@ I'm also studying the Space and Technology minor program.🚀
 <!-- </font> -->
 
 # Skills
-* Programming Languages : C / C++ / Python
-* Robotics : ROS / Gazebo / Webots / Linux
-* Tools : Matlab / Simulink / Solidworks / Inventor
-* Web programming : HTML / CSS / javaScript
+* Programming Languages :C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
+* Robotics & Machine Learning: ROS / Webots / Linux / Pytorch / Tensorflow / Keras  
+* Mechanical & Electronics & Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
+* Tools: Matlab / Simulink / Verilog / FPGA / LTSpice / Latex  
+* Web programming : HTML / CSS / javaScript / firebase / Cocos Creator  
+* English Ability:   
+TOEFL iBT: **Total:110** R:29 / L:30 / S:23 / W:28   
+GRE Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
+
 
 
 
