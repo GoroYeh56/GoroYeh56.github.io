@@ -141,7 +141,7 @@ The robot localizes itself using **odometry**.
 
 
 # Certificates
----
+-  - 
 ## 1. Robotics - Coursera
 
 ![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
