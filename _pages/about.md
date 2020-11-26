@@ -12,7 +12,7 @@ redirect_from:
 <!-- My photo in Denmark -->
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
-Table of Contents
+<!-- Table of Contents
 =================
 
       * [About me](#about-me)
@@ -24,7 +24,26 @@ Table of Contents
       * [Certificate](#certificate)
       * [Activities](#activities)
       * [Hobbies](#hobbies)
-         * [Top Movies:](#top-movies)
+         * [Top Movies:](#top-movies) -->
+
+- [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents-1)
+- [About me](#about-me)
+- [Skills](#skills)
+- [Recent Projects](#recent-projects)
+  * [1. Hockey Mobile Robot](#1-hockey-mobile-robot)
+  * [2. Locobot](#2-locobot)
+  * [3. Parallel Programming](#3-parallel-programming)
+- [Certificates](#certificates)
+  * [1. Robotics - Coursera](#1-robotics---coursera)
+  * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
+  * [3. Basics Computer Vision - Nvidia course](#3-basics-computer-vision---nvidia-course)
+    + [Industrial Technology Research Institute](#industrial-technology-research-institute)
+- [Activities](#activities)
+- [Hobbies](#hobbies)
+  * [Top Movies:](#top-movies-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
