@@ -51,24 +51,27 @@ I'm also studying the Space and Technology minor program.🚀
 
 **(1) Checkpoint 3: Find LED light puck with motion control**
 
+[checkpoint 3 demo video](https://drive.google.com/file/d/1zaX19EB-yivTNpUmGQVsYTQhP94Uupvv/view?usp=sharing)
+
 * Use only 14 seconds to complete both **obstacle avoidance** and **target achievement**.
 
 Full Assembly: 
-![CP3 Assembly Picture](https://drive.google.com/file/d/1c-fxcNzdMZarJHotqzuwrBOA2dMnFgz0/view?usp=sharing)
+
+![CP3 Assembly Picture](http://goroyeh56.github.io/images/FullAssembly.jpg)
 
 Full Assembly (Side view) :  
-![CP3 Assembly Picture](https://drive.google.com/file/d/155yxTwM2F_HpcEN9C-9VCJN5D5J1Vkxq/view?usp=sharing)
+
+![CP3 Assembly Picture](http://goroyeh56.github.io/images/sideview.jpg)
 
 The two **obstacle avoidance touch sensors**:
-![Touch Sensors](https://drive.google.com/file/d/17LzqSRD4OsnQlRy_tkFvdK-QoyV3BuwF/view?usp=sharing)
 
-**Light Sensor** (Inside the black box): 
-And the **GOAL touch sensor**
-![Light Sensor](https://drive.google.com/file/d/1Vwp8IdIkR_-qgVtZyMDoCGHeEDrSHnPx/view?usp=sharing)
+![Touch Sensors](http://goroyeh56.github.io/images/touchsensors.jpg)
+
+**Light Sensor** (Inside the black box) and the **GOAL touch sensor**
+
+![Light Sensor](http://goroyeh56.github.io/images/lightsensor.jpg)
 
 
-
-[checkpoint 3 demo video](https://drive.google.com/file/d/1zaX19EB-yivTNpUmGQVsYTQhP94Uupvv/view?usp=sharing)
 
 
 ### 2. Locobot
@@ -90,7 +93,7 @@ The robot localizes itself using **odometry**.
 
 
 ### 3. Parallel Programming 
-**
+
 *Course: Parallel Programming - 2020 Fall*
 
 **(1) Odd Even Sort**
