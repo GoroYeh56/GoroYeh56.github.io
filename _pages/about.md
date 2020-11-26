@@ -60,6 +60,7 @@ I'm also studying the Space and Technology minor program.🚀
 <!-- </font> -->
 
 # Skills
+---
 * Programming Languages :C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
 * Robotics & Machine Learning: ROS / Webots / Linux / Pytorch / Tensorflow / Keras  
 * Mechanical & Electronics & Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
