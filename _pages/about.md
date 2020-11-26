@@ -53,9 +53,22 @@ I'm also studying the Space and Technology minor program.🚀
 
 * Use only 14 seconds to complete both **obstacle avoidance** and **target achievement**.
 
-![CP3 Assembly Picture]()
-![CP3 Assembly Picture]()
-[checkpoint 3 demo video]()
+Full Assembly: 
+![CP3 Assembly Picture](https://drive.google.com/file/d/1c-fxcNzdMZarJHotqzuwrBOA2dMnFgz0/view?usp=sharing)
+
+Full Assembly (Side view) :  
+![CP3 Assembly Picture](https://drive.google.com/file/d/155yxTwM2F_HpcEN9C-9VCJN5D5J1Vkxq/view?usp=sharing)
+
+The two **obstacle avoidance touch sensors**:
+![Touch Sensors](https://drive.google.com/file/d/17LzqSRD4OsnQlRy_tkFvdK-QoyV3BuwF/view?usp=sharing)
+
+**Light Sensor** (Inside the black box): 
+And the **GOAL touch sensor**
+![Light Sensor](https://drive.google.com/file/d/1Vwp8IdIkR_-qgVtZyMDoCGHeEDrSHnPx/view?usp=sharing)
+
+
+
+[checkpoint 3 demo video](https://drive.google.com/file/d/1zaX19EB-yivTNpUmGQVsYTQhP94Uupvv/view?usp=sharing)
 
 
 ### 2. Locobot
@@ -64,13 +77,16 @@ I'm also studying the Space and Technology minor program.🚀
 
 **(1) Motion Control on LocoBot**
 
-[Motion Control demo01 video]()
+[Motion Control demo01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)
 
+This task is to control the robot to move to the specify points with correct orientations.
+The robot localizes itself using **odometry**.
 
 **(2) vSLAM Navigation on LocoBot**
 
-[vSLAM demo02 video]()
+[vSLAM demo02 video](https://drive.google.com/file/d/1fZ53xHebRdCqcuXbfeu4zBOgNLSjl-qJ/view?usp=sharing)
 
+**Notes:** The robot navigates the environment using vSLAM with depth camera Intel Realsense D435, **NOT simply follows the line!!** (The line is for human to verify the precision of the robot performance, it's for grading.)
 
 
 ### 3. Parallel Programming 
@@ -80,6 +96,7 @@ I'm also studying the Space and Technology minor program.🚀
 **(1) Odd Even Sort**
 
 * Use **MPI** to complete odd-even sort across different processes.
+
 [Github repository - OddEvenSort](https://github.com/GoroYeh56/Odd_Even_Sort---Parallel_Programming)
 
 **(2) Mandelbrot Set**
