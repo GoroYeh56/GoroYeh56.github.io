@@ -13,7 +13,8 @@ redirect_from:
 ![](https://i.imgur.com/CjcJXWK.jpg)
 
 # Table of Contents
-{:toc}
+* TOC {:toc}
+
 * About me
 * Skills
 * Recent Projects
