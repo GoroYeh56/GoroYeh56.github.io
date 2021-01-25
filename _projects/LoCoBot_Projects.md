@@ -1,0 +1,37 @@
+---
+title: "LoCoBot Projects"
+# permalink: /projects/adcs_project
+# date: 2020-06-06
+# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: "Course project of Robotic System Design and Implementation<br/><img src='/images/robsys_title.png'  style='margin-left:25%'>  "
+# <img src='/images/ADCS_project.PNG'>"
+collection: projects
+---
+
+## Demo 01 - Motion Control with Odometry Localization
+
+[Demo 01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)  
+
+## Demo 02 - Navigation using vSLAM with D435 depth camera
+
+[Demo 02 video](https://drive.google.com/file/d/1fZ53xHebRdCqcuXbfeu4zBOgNLSjl-qJ/view?usp=sharing)  
+
+## Final Contest - Object Classification and Recycling
+* First Stage: Motion Control from starting point to goal location  
+* Second Stage: Classify objects' colors and location using D435 camera  
+* Third Stage: Grab the object and place it to its corresponding bin using LoCoBot manipulator.  
+
+[Github repository - Robotic-System-Course](https://github.com/GoroYeh56/Robotic-Systems-Course)
+
+
+## A* navigation on LoCoBot
+* Use A* algorithm to find a path to the goal (the red backpack).  
+[Demo video]](https://drive.google.com/file/d/1f8eU07yB4-JYZ8WStabCkBWcdiC3Ljge/view?usp=sharing)  
+
+## Trail Following using Transfer Learning and Convolutional Neural Network  
+[Demo video]](https://drive.google.com/file/d/1c_vkW_Edk-8h4pFvN1QmaZdLD4uACpHI/view?usp=sharing)  
+
+
+
+
