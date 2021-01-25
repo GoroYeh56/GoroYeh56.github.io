@@ -4,7 +4,7 @@ title: "Operating System Project - NachOS"
 # date: 2020-06-06
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Course project of Operating System <br/><img src='/images/ADCS_project.PNG' width='50%' style='margin-left:50%' >"
+excerpt: "Course project of Operating System <br/><img src='/images/ADCS_project.PNG' width='50%' style='margin-left:25%' >"
 collection: projects
 ---
 

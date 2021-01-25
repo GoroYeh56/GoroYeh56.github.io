@@ -1,6 +1,6 @@
 ---
 title: "Mobile Robots "
-excerpt: "Course project of Mobile Robot <br/><img src='/images/FinalAssembly.jpg' width='50%' style='margin-left:50%'>"
+excerpt: "Course project of Mobile Robot <br/><img src='/images/FinalAssembly.jpg' width='50%' style='margin-left:25%'>"
 collection: projects
 ---
 
