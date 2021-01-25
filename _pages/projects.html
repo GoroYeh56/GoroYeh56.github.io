@@ -3,13 +3,20 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+toc: true
 ---
 
 
 {% include base_path %}
 
-{% include toc.html html=content %}
+<!-- -TOC -->
+<!-- {:toc} -->
 
+<!-- {% assign content = markdown | markdownify %}
+{% include toc.html html=content %} -->
+
+<!-- {% capture title %} -->
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
+<!-- {% endcapture %} -->
