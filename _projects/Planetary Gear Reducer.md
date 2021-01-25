@@ -4,7 +4,7 @@ title: "Planetary Gear Reducer"
 # date: 2020-01-09
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Final project of Mechanical Design <br/><img src='/images/reducer1.png' width='110%' style='margin-left:25%'>"
+excerpt: "Final project of Mechanical Design <br/><img src='/images/reducer1.png' width='75%' style='margin-left:25%'>"
 collection: projects
 ---
 <!-- Todo: revise the image. -->
