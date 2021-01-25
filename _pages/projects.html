@@ -8,14 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
--TOC
-{:toc}
+<!-- -TOC
+{:toc} -->
 
-<!-- {% assign content = markdown | markdownify %}
-{% include toc.html html=content %} -->
-
-<!-- {% capture title %} -->
+{% capture markdown %}
 {% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
-<!-- {% endcapture %} -->
+{% endcapture %}
+
+{% assign content = markdown | markdownify %}
+{% include toc.html html=content %}
