@@ -5,11 +5,10 @@ permalink: /projects/
 author_profile: true
 ---
 
-
 {% include base_path %}
 
-<!-- -TOC
-{:toc} -->
+
+<h2>Table of content:</h2>
 
 {% capture markdown %}
 {% for post in site.projects %}
@@ -19,3 +18,8 @@ author_profile: true
 
 {% assign content = markdown | markdownify %}
 {% include toc.html html=content %}
+
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
