@@ -1,6 +1,6 @@
 ---
 title: "LoCoBot Projects"
-excerpt: "Course project of Robotic System Design and Implementation<br/><img src='/images/robsys_title.png'  style='margin-left:25%'>  "
+excerpt: "Course project of Robotic System Design and Implementation<br/><img src='/images/robsys_title.png' width='60%' style='margin-left:25%'>  "
 collection: projects
 ---
 
