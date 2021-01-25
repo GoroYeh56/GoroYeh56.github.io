@@ -4,14 +4,9 @@ title: "Parallel Programming - Projects"
 # date: 2020-06-06
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Course project of Parallel Programming <br/><img src='/images/graph_v28.gif' style='margin-left:25%' >"
+excerpt: "Course project of Parallel Programming <br/><img src='/images/graph_v28.gif' style='margin-left:15%' >"
 collection: projects
 ---
-<!-- Todo: revise the image. -->
-
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
-
-[TOC]
 
 ## HW1 : Odd - Even Sort
 ![RRT start image]()
