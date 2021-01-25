@@ -1,6 +1,6 @@
 ---
 title: "Operating System Project - NachOS"
-excerpt: "Course project of Operating System <br/><img src='/images/nachOS.PNG' style='margin-left:25%' >"
+excerpt: "Course project of Operating System <br/><img src='/images/nachOS.PNG' >"
 collection: projects
 ---
 

@@ -8,9 +8,9 @@ excerpt: "Course project of Artificial Intelligence <br/><img src='/images/vacuu
 collection: projects
 ---
 
-# Assignment: Multi-Location Vacuum Robot using searching algorithms
+## Assignment: Multi-Location Vacuum Robot using searching algorithms
 
-use **Breadth-First-Search** and **Limited Depth-First-Search** to complete a  
+* Use **Breadth-First-Search** and **Limited Depth-First-Search** to complete a  
 grid-based multi-location vacuum robot problem.  
 
 <!-- TODO: A* version -->
