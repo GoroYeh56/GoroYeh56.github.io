@@ -36,7 +36,7 @@ Level 3 - Round-Robin with Time Quantum : 100 ticks
 
 Part I: Enhance nachOS file system to support larger file size: 64 MB per file  
     original : 4KB  
-Part II: Support **subdirectories**, maximum 255 characters for each absolute path. (-mkdir) 
+Part II: Support **subdirectories**, maximum 255 characters for each absolute path. (-mkdir)  
 Part III: Recursive Operation on file system. For example: Recursive List(-lr), Recursive Remove(-rr)  
 [MP4 report](https://drive.google.com/file/d/1c5iCk6ewv0jaf_nH6Hqs-eNxJGp4ZcGR/view?usp=sharing)  
 
