@@ -1,10 +1,10 @@
 ---
 title: "Mobile Robots "
-excerpt: "Course project of Mobile Robot <br/><img src='/images/FinalAssembly.jpg'>"
+excerpt: "Course project of Mobile Robot <br/><img src='/images/FinalAssembly.jpg' width='50%' >"
 collection: projects
 ---
 
-# Hockey Robot Contest:
+## Hockey Robot Contest:
 
 ## Check Point 1 - ROS Basics
 

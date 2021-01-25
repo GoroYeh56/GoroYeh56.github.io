@@ -4,7 +4,7 @@ title: "LoCoBot Project"
 # date: 2020-06-06
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-excerpt: "Course project of Robotic System Design and Implementation" <br/>"
+excerpt: "Course project of Robotic System Design and Implementation<br/><img src='/images/FinalAssembly.jpg' width='50%' >  "
 # <img src='/images/ADCS_project.PNG'>"
 collection: projects
 ---
