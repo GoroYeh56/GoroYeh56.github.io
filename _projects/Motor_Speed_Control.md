@@ -2,7 +2,7 @@
 title: "Motor Speed Control Laboratory"
 collection: projects
 permalink: /projects/motor_speed_control
-excerpt: "Course project of Control System I<br/><img src='/images/control1.jpg'>"
+excerpt: "Course project of Control System I<br/><img src='/images/control1.jpg'width='50%' style='margin-left:50%'   >"
 
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
