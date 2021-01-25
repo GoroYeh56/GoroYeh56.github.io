@@ -1,11 +1,6 @@
 ---
 title: "LoCoBot Projects"
-# permalink: /projects/adcs_project
-# date: 2020-06-06
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 excerpt: "Course project of Robotic System Design and Implementation<br/><img src='/images/robsys_title.png'  style='margin-left:25%'>  "
-# <img src='/images/ADCS_project.PNG'>"
 collection: projects
 ---
 
@@ -27,10 +22,10 @@ collection: projects
 
 ## A* navigation on LoCoBot
 * Use A* algorithm to find a path to the goal (the red backpack).  
-[Demo video]](https://drive.google.com/file/d/1f8eU07yB4-JYZ8WStabCkBWcdiC3Ljge/view?usp=sharing)  
+[Demo video](https://drive.google.com/file/d/1f8eU07yB4-JYZ8WStabCkBWcdiC3Ljge/view?usp=sharing)  
 
 ## Trail Following using Transfer Learning and Convolutional Neural Network  
-[Demo video]](https://drive.google.com/file/d/1c_vkW_Edk-8h4pFvN1QmaZdLD4uACpHI/view?usp=sharing)  
+[Demo video](https://drive.google.com/file/d/1c_vkW_Edk-8h4pFvN1QmaZdLD4uACpHI/view?usp=sharing)  
 
 
 
