@@ -18,9 +18,12 @@ collection: projects
 2. Case:  PVC case  
 ![motor image](https://goroyeh56.github.io/images/rocketassembly.jpg)
 3. Nose Cone:  Parabolic  
-![nose image](https://goroyeh56.github.io/images/nosecone.jpg =250x)![nosecone CAD](https://goroyeh56.github.io/images/nosecone_cad.png =250x)
+<img src="/images/nosecone.jpg" alt="drawing" width="250"/><img src="/images/nosecone_cad.png" alt="drawing" width="250"/>
+<!-- ![nose image](https://goroyeh56.github.io/images/nosecone.jpg =250x)![nosecone CAD](https://goroyeh56.github.io/images/nosecone_cad.png =250x) -->
+
 4. Fin:  Half-airfoid cross section  
-![fin image](https://goroyeh56.github.io/images/fin.jpg =250x)![fin-cross section image](https://goroyeh56.github.io/images/fin_cross.png =250x)
+<img src="/images/fin.jpg" alt="drawing" width="250"/><img src="/images/fin_cross.png" alt="drawing" width="250"/>
+<!-- ![fin image](https://goroyeh56.github.io/images/fin.jpg =250x)![fin-cross section image](https://goroyeh56.github.io/images/fin_cross.png =250x) -->
 5. Avionics:  Gyro  
 ![avionics image](https://goroyeh56.github.io/images/avionics.jpg)
 6. Parachute:  
