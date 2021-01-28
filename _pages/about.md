@@ -17,22 +17,14 @@ redirect_from:
 - [About me](#about-me)
 - [Skills](#skills)
 - [Recent Projects](#recent-projects)
-  * [1. Parallel Programming - NTHU, fall 2020](#1-parallel-programming---nthu--fall-2020)
-  * [2. Mobile Robots - NCTU, fall 2020](#2-mobile-robots---nctu--fall-2020)
-  * [3. LoCoBot Projects - NCTU, fall 2020](#3-locobot-projects---nctu--fall-2020)
-  * [4. Rocket Design and Realization - NCTU, fall 2020](#4-rocket-design-and-realization---nctu--fall-2020)
-  * [5. Machine Learning - NTHU, fall 2020](#5-machine-learning---nthu--fall-2020)
-  * [6. Operating System- NTHU, fall 2020](#6-operating-system--nthu--fall-2020)
 - [Certificates](#certificates)
   * [1. Robotics - Coursera](#1-robotics---coursera)
   * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
   * [3. Basics Computer Vision - Nvidia course](#3-basics-computer-vision---nvidia-course)
-    + [Industrial Technology Research Institute](#industrial-technology-research-institute)
 - [Activities](#activities)
 - [Hobbies](#hobbies)
-  * [Top Movies:](#top-movies-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  * [Top Movies:](#top-movies-)  
+<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
 
 # About me
@@ -75,18 +67,18 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 # Recent Projects
 ---
-## 1. Parallel Programming - NTHU, fall 2020
-* [Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)  
-## 2. Mobile Robots - NCTU, fall 2020
-* [Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)   
-## 3. LoCoBot Projects - NCTU, fall 2020
-* [LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)   
-## 4. Rocket Design and Realization - NCTU, fall 2020
-* [Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)    
-## 5. Machine Learning - NTHU, fall 2020
-* [Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)  
-## 6. Operating System- NTHU, fall 2020 
-* [Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)  
+<!-- ## 1. Parallel Programming - NTHU, fall 2020 -->
+* [1. Parallel Programming - NTHU, fall 2020](https://goroyeh56.github.io/projects/ParallelProgramming/)  
+<!-- ## 2. Mobile Robots - NCTU, fall 2020 -->
+* [2. Mobile Robots - NCTU, fall 2020](https://goroyeh56.github.io/projects/MobileRobots/)   
+<!-- ## 3. LoCoBot Projects - NCTU, fall 2020 -->
+* [3. LoCoBot Projects - NCTU, fall 2020](https://goroyeh56.github.io/projects/LoCoBot_Projects/)   
+<!-- ## 4. Rocket Design and Realization - NCTU, fall 2020 -->
+* [4. Rocket Design and Realization - NCTU, fall 2020](https://goroyeh56.github.io/projects/RocketDesign/)    
+<!-- ## 5. Machine Learning - NTHU, fall 2020 -->
+* [5. Machine Learning - NTHU, fall 2020](https://goroyeh56.github.io/projects/MachineLearning/)  
+<!-- ## 6. Operating System- NTHU, fall 2020  -->
+* [6. Operating System- NTHU, fall 2020 ](https://goroyeh56.github.io/projects/OperatingSystem/)  
 
 # Certificates 
 ---
