@@ -6,16 +6,16 @@ collection: projects
 
 
 ## HW1 : Odd - Even Sort  
-* [Spec](https://docs.google.com/document/d/1DwfAI_8m9obhJLDkiBwKLvBE7xIDX98bppFFWsFzo38/edit) 
 ![Odd-Even Sort image](https://goroyeh56.github.io/images/illustration.png)  
+* [Spec](https://docs.google.com/document/d/1DwfAI_8m9obhJLDkiBwKLvBE7xIDX98bppFFWsFzo38/edit) 
 
 * Use **MPI** to complete odd-even sort across different processes.  
 [Github repository - OddEvenSort](https://github.com/GoroYeh56/Odd_Even_Sort---Parallel_Programming)
 
 
-## HW2 : Mandelbrot Set  
-* [Spec](https://docs.google.com/document/d/1fJasbjKBzn0p9a-oITdf3GCBukCHvToklc1eX15Bd94/edit) 
+## HW2 : Mandelbrot Set    
 ![Mandelbrot Set image](https://goroyeh56.github.io/images/mandelbrot_fast.png)  
+* [Spec](https://docs.google.com/document/d/1fJasbjKBzn0p9a-oITdf3GCBukCHvToklc1eX15Bd94/edit)  
 * Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
 * Complete with two version: 
   2a : Pthread only
