@@ -5,14 +5,16 @@ collection: projects
 ---
 
 
-## HW1 : Odd - Even Sort
+## HW1 : Odd - Even Sort  
+* [Spec](https://docs.google.com/document/d/1DwfAI_8m9obhJLDkiBwKLvBE7xIDX98bppFFWsFzo38/edit) 
 ![Odd-Even Sort image](https://goroyeh56.github.io/images/illustration.png)  
 
 * Use **MPI** to complete odd-even sort across different processes.  
 [Github repository - OddEvenSort](https://github.com/GoroYeh56/Odd_Even_Sort---Parallel_Programming)
 
 
-## HW2 : Mandelbrot Set
+## HW2 : Mandelbrot Set  
+* [Spec](https://docs.google.com/document/d/1fJasbjKBzn0p9a-oITdf3GCBukCHvToklc1eX15Bd94/edit) 
 ![Mandelbrot Set image](https://goroyeh56.github.io/images/mandelbrot_fast.png)  
 * Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
 * Complete with two version: 
@@ -25,18 +27,18 @@ collection: projects
 
 
 ## HW3 : All-Pair Shortest Path (CPU version)  
+![HW3 image](https://goroyeh56.github.io/images/APSP.png)  
 * [Spec](https://apollo.cs.nthu.edu.tw/pp20/hw3/) 
 * Number of Vertices: from 2 to  6000  
 * Number of Edges: from 0 to  V*(V-1)  
-![HW3 image](https://goroyeh56.github.io/images/APSP.png)  
 [Github repository - hw3-PP](https://github.com/GoroYeh56/AllPairsShortestPath--ParallelProgramming)
 
 ## HW4-1: Block All-Pair Shortest Path (GPU CUDA version)
+![Blocked APSP](https://goroyeh56.github.io/images/BlockedAPSP_illus.PNG)  
+![Blocked APSP-3phases](https://goroyeh56.github.io/images/BlockedAPSP_3phases.PNG)    
 * [Spec](https://apollo.cs.nthu.edu.tw/pp20/hw4-1/#input-output-format)  
 * Number of Vertices: from 2 to  40000    
 * Number of Edges: from 0 to  V*(V-1)  
-![Blocked APSP](https://goroyeh56.github.io/images/BlockedAPSP_illus.PNG)  
-![Blocked APSP-3phases](https://goroyeh56.github.io/images/BlockedAPSP_3phases.PNG)    
 ## HW4-2: Block All-Pair Shortest Path (Multi-GPU version)  
 * [Spec](https://apollo.cs.nthu.edu.tw/pp20/hw4-2/)  
 * Number of Vertices: from 2 to  60000    
@@ -48,11 +50,19 @@ collection: projects
 
 * Parallelize sequential version RRT and RRT* algorithms.  
 
-<img src="/images/graph_v3001.gif" alt="RRT-gif" width="350"/><img src="/images/graph_v28.gif" alt="RRT*-gif" width="350"/> 
+
+<img src="/images/graph_v3001.gif" alt="RRT-gif" width="50%"/><img src="/images/graph_v28.gif" alt="RRT*-gif" width="50%"/> 
+
+<img src="/images/graph_v301_start.png" alt="RRT start" width="50%"/><img src="/images/graph_v101.png" alt="RRT end" width="50%"/> 
+
+<img src="/images/graph_v28_start.png" alt="RRT* start" width="50%"/><img src="/images/graph_v28.png" alt="RRT* end" width="50%"/> 
+
+
+<!-- <img src="/images/graph_v3001.gif" alt="RRT-gif" width="350"/><img src="/images/graph_v28.gif" alt="RRT*-gif" width="350"/> 
 
 <img src="/images/graph_v301_start.png" alt="RRT start" width="350"/><img src="/images/graph_v101.png" alt="RRT end" width="350"/> 
 
-<img src="/images/graph_v28_start.png" alt="RRT* start" width="350"/><img src="/images/graph_v28.png" alt="RRT* end" width="350"/> 
+<img src="/images/graph_v28_start.png" alt="RRT* start" width="350"/><img src="/images/graph_v28.png" alt="RRT* end" width="350"/>  -->
 
 [Presentation Slide](https://drive.google.com/file/d/1Ohf34b0meSxq7hLQwcmtsyY3wBlIOINA/view?usp=sharing)
 
