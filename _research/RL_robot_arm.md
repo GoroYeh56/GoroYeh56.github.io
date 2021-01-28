@@ -2,7 +2,7 @@
 title: "Autonomous Barbeque Robot Manipulator"
 collection: research
 permalink: /research/RL_robot_arm
-excerpt: "Using Deep Deterministic Policy Gradient to Complete a grab-and-place task. <br/><img src='https://drive.google.com/file/d/1kJ87xkTVWQZaYIFwJkHA8Bo-aE8QUdoA/view?usp=sharing'>"
+excerpt: "Using Deep Deterministic Policy Gradient to Complete a grab-and-place task. <br/><img src='/images/Webots.JPG'>"
 ---
 *Advisor: Professor Chung-Ta King - Parallel and Distributed Systems Lab*  
 *Mar. 2020 ~ Dec. 2020*  

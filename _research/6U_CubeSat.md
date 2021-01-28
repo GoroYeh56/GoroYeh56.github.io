@@ -12,13 +12,13 @@ excerpt: "Simulate On-Board Communication between Satellite Subsystems with UART
 to simulate the **mode transition** on a 6U CubeSat in space.
 
 
-![Mode Transition Diagram](https://drive.google.com/file/d/1cKcrDC3y8cIll-kcG3zWNVPeqUoRK8mn/view?usp=sharing)  
+![Mode Transition Diagram](https://goroyeh56.github.io/images/ModeTransition.png)  
 <!-- TDOO: PPT & Title Image -->
 [Presentation Slide](https://drive.google.com/file/d/1cJK4je1C413WruWMbxSFJXIDcaIjtcXJ/view?usp=sharing)    
 [Final Report](https://drive.google.com/file/d/1ENbyTU1UpFyUr7-gNUbFczne6LiY5tIn/view?usp=sharing)  
 [On-Board Computer Notes](https://hackmd.io/@GoroYeh56/6U_FinalProject_OBC)  
 
-![合照](https://drive.google.com/file/d/1NgcGYZPahdofEth1rUd_hdBvs5QbQZlw/view?usp=sharing)
+![合照](https://goroyeh56.github.io/images/6u_group.jpeg)
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper2.pdf) -->
 
