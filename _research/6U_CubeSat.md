@@ -2,8 +2,8 @@
 title: "6U Cube Satellite Mission Research"
 collection: research
 permalink: /research/6U_CubeSat
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-# date: Mar. 2020 ~ Present
+excerpt: 'Simulate On-Board Communication between Satellite Subsystems with UART and CAN Bus.'
+date: Mar. 2020 ~ Jun. 2020
 ---
 This research is about using UART and CAN bus as communication protocol
 to simulate the **mode transition** on a 6U CubeSat in space.
