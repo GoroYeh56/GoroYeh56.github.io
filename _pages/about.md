@@ -12,28 +12,25 @@ redirect_from:
 <!-- My photo in Denmark -->
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
-<!-- Table of Contents -->
-  * [<!-- Table of Contents](#-----table-of-contents)
 - [About me](#about-me)
 - [Skills](#skills)
 - [Recent Projects](#recent-projects)
-  * [[1. Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)](#-1-parallel-programming--https---goroyeh56githubio-projects-parallelprogramming--)
-  * [[2. Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)](#-2-mobile-robots--https---goroyeh56githubio-projects-mobilerobots--)
-  * [[3. LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)](#-3-locobot-projects--https---goroyeh56githubio-projects-locobot-projects--)
-  * [[4. Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)](#-4-rocket-design-and-realization--https---goroyeh56githubio-projects-rocketdesign--)
-  * [[5. Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)](#-5-machine-learning--https---goroyeh56githubio-projects-machinelearning--)
-  * [[6. Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)](#-6-operating-system--https---goroyeh56githubio-projects-operatingsystem--)
+    + [1. Parallel Programming](#-1-parallel-programming--https---goroyeh56githubio-projects-parallelprogramming--)
+    + [2. Mobile Robots](#-2-mobile-robots--https---goroyeh56githubio-projects-mobilerobots--)
+    + [3. LoCoBot Projects](#-3-locobot-projects--https---goroyeh56githubio-projects-locobot-projects--)
+    + [4. Rocket Design and Realization](#-4-rocket-design-and-realization--https---goroyeh56githubio-projects-rocketdesign--)
+    + [5. Machine Learning](#-5-machine-learning--https---goroyeh56githubio-projects-machinelearning--)
+    + [6. Operating System](#-6-operating-system--https---goroyeh56githubio-projects-operatingsystem--)
 - [Certificates](#certificates)
   * [1. Robotics - Coursera](#1-robotics---coursera)
   * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
   * [3. Basics Computer Vision - Nvidia course](#3-basics-computer-vision---nvidia-course)
-    + [Industrial Technology Research Institute](#industrial-technology-research-institute)
+    <!-- + [Industrial Technology Research Institute](#industrial-technology-research-institute) -->
 - [Activities](#activities)
 - [Hobbies](#hobbies)
   * [Top Movies:](#top-movies-)
 
-<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
-
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # About me
 ---
@@ -77,12 +74,12 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 # Recent Projects
 ---
-## [1. Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)  
-## [2. Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)  
-## [3. LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)  
-## [4. Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)  
-## [5. Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)  
-## [6. Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)  
+### [1. Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)  
+### [2. Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)  
+### [3. LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)  
+### [4. Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)  
+### [5. Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)  
+### [6. Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)  
 
 
 # Certificates 

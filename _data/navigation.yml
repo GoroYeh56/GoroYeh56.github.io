@@ -14,7 +14,10 @@ main:
 
   - title: "Publications"
     url: /publications/ 
-    
+
+  - title: "Work Experiences"
+    url: /works/
+
   # - title: "Activities"
   #   url: /activities/
 
