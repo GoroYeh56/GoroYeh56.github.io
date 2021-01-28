@@ -24,7 +24,7 @@ collection: projects
 5. Avionics:  Gyro  
 ![avionics image](https://goroyeh56.github.io/images/avionics.jpg)
 6. Parachute:  
-![parachute image](https://goroyeh56.github.io/images/parachute.jpg)
+![parachute image](https://goroyeh56.github.io/images/parachute.jpg)  
 * Launch:    
 ![launch image](https://goroyeh56.github.io/images/launch.jpg)
 

@@ -120,26 +120,6 @@ The robot localizes itself using **odometry**.
 **Notes:** The robot navigates the environment using vSLAM with depth camera Intel Realsense D435, **NOT simply follows the line!!** (The line is for human to verify the precision of the robot performance, it's for grading.)
 
 
-## 3. Parallel Programming 
-*Course: Parallel Programming - 2020 Fall*
-
-**(1) Odd Even Sort**  
-* Use **MPI** to complete odd-even sort across different processes.  
-[Github repository - OddEvenSort](https://github.com/GoroYeh56/Odd_Even_Sort---Parallel_Programming)
-
-**(2) Mandelbrot Set**  
-* Increase the computation time of sequential Mandelbrot Set using **Dynamic Load Balancing** and **Vectorization.**
-* Complete with two version: 
-  2a : Pthread only
-  2b : Hybrid with MPI and OpenMP
-
-* **Ranked 5th out of 64 students** in the class
-* Handcrafted dynamic task assignment with Master and Slave workpool using MPI Send() and Recv().  
-[Github repository - Mandelbrot Set](https://github.com/GoroYeh56/Mandelbrot_Set---Parallel_Programming)
-
-
-
-
 # Certificates 
 ---
 ## 1. Robotics - Coursera
