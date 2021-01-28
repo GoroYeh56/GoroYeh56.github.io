@@ -2,17 +2,17 @@
 title: "6U Cube Satellite Mission Research"
 collection: research
 permalink: /research/6U_CubeSat
-excerpt: "Simulate On-Board Communication between Satellite Subsystems with UART and CAN Bus.<br/><img src='images/6u.png'>"
+excerpt: "Simulate On-Board Communication between Satellite Subsystems with UART and CAN Bus.<br/><img src='/images/6u.png'>"
 # date: Mar. 2020 ~ Jun. 2020
 ---
-*Advisor: Doctor Chen-Yu Chan, National Space Organization*  
+*Advisor: Doctor Cheng-Yu Chan, National Space Organization*  
 *Mar. 2020 ~ Jun. 2020*  
 
 * This research is about using UART and CAN bus as communication protocol
 to simulate the **mode transition** on a 6U CubeSat in space.
 
 
-![Mode Transition Diagram](https://drive.google.com/file/d/1cKcrDC3y8cIll-kcG3zWNVPeqUoRK8mn/view?usp=sharing)
+![Mode Transition Diagram](https://drive.google.com/file/d/1cKcrDC3y8cIll-kcG3zWNVPeqUoRK8mn/view?usp=sharing)  
 <!-- TDOO: PPT & Title Image -->
 [Presentation Slide](https://drive.google.com/file/d/1cJK4je1C413WruWMbxSFJXIDcaIjtcXJ/view?usp=sharing)    
 [Final Report](https://drive.google.com/file/d/1ENbyTU1UpFyUr7-gNUbFczne6LiY5tIn/view?usp=sharing)  
