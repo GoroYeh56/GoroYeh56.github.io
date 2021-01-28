@@ -8,9 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ## Industrial Technology Research Institute  
-- Robotic Intern at Service Robot Department, Intelligent Robotics Technology Division, Mechnical and Mechatronics System Research Labs  
-<!-- Mechnical and Mechatronics System Research Labs) 智慧機器人技術組(Intelligent Robotics Technology Division) 服務型機器人技術部(Service Robot Department) -->
-*Jul. 2020 - Jan. 2021*  
+*Service Robot Department, Intelligent Robotics Technology Division, Mechnical and Mechatronics System Research Labs*  
+*Robotic Intern, Jul. 2020 - Jan. 2021*  
 * Implement a ros driver program from scratch for controlling our skid-steering robot.  
 * Launched a skid-steering outdoor mobile robot with reliable hub motors and motor drivers.      
 * Accomplished a ROS package that allowed the wheeled robot to navigate the environment.  
@@ -20,8 +19,7 @@ author_profile: true
 * [GitLab repo for odrive ros driver](https://gitlab.com/106030009/odrive_ros_itri)
 
 ## National Center of High-Performance Computing   
-- Machine Learning Intern
-*Aug. 2019 - Oct. 2020*     
+*Machine Learning Intern, Aug. 2019 - Oct. 2020*     
 
 * Achieved a convolutional neural network to complete image classification tasks with ImageNet dataset.
 * Realized the model with 94\% testing accuracy using Keras and Tensorflow.
