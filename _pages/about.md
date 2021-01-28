@@ -12,16 +12,17 @@ redirect_from:
 <!-- My photo in Denmark -->
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
-Table of Contents
----
-<!-- ================= -->
-- [Table of Contents](#table-of-contents)
+<!-- Table of Contents -->
+  * [<!-- Table of Contents](#-----table-of-contents)
 - [About me](#about-me)
 - [Skills](#skills)
 - [Recent Projects](#recent-projects)
-  * [1. Hockey Mobile Robot](#1-hockey-mobile-robot)
-  * [2. Locobot](#2-locobot)
-  * [3. Parallel Programming](#3-parallel-programming)
+  * [[1. Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)](#-1-parallel-programming--https---goroyeh56githubio-projects-parallelprogramming--)
+  * [[2. Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)](#-2-mobile-robots--https---goroyeh56githubio-projects-mobilerobots--)
+  * [[3. LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)](#-3-locobot-projects--https---goroyeh56githubio-projects-locobot-projects--)
+  * [[4. Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)](#-4-rocket-design-and-realization--https---goroyeh56githubio-projects-rocketdesign--)
+  * [[5. Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)](#-5-machine-learning--https---goroyeh56githubio-projects-machinelearning--)
+  * [[6. Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)](#-6-operating-system--https---goroyeh56githubio-projects-operatingsystem--)
 - [Certificates](#certificates)
   * [1. Robotics - Coursera](#1-robotics---coursera)
   * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
@@ -31,24 +32,26 @@ Table of Contents
 - [Hobbies](#hobbies)
   * [Top Movies:](#top-movies-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
 
 # About me
 ---
-<!-- <font size=4> -->
-Hi, my name is Goro Yeh and I'm from Hsinchu, Taiwan.
 
-I am enthusiastic about **robotics** and **engineering**.
+Hello, my name is Goro Yeh and I'm from [Hsinchu, Taiwan](https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%B0%E7%AB%B9/@24.6293865,120.6178652,10z/data=!4m5!3m4!1s0x346835db1a4b4b11:0xd409dcbcb5d33b0c!8m2!3d24.8138287!4d120.9674798).
 
-I'm currently pursuing my bachelor's degree in Computer Engineering
-and Mechanical Engineering.
+I am enthusiastic about **robotics** and **software engineering**.
 
-I'm also studying the Space and Technology minor program.🚀
+I'm currently pursuing my Bbachelor's degree in Computer Engineering
+and Power Mechanical Engineering at [National Tsing Hua University](http://nthu-en.site.nthu.edu.tw/).
 
+[NTHU CS](http://dcs-en.site.nthu.edu.tw/index.php)  
+[NTHU PME](http://www.pme.nthu.edu.tw/index.php?Lang=en)  
 
-**My research interests** revolve around:
+I'm also studying the Space Technology and Engineering Program.🚀  
+[Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw)
+
+**My research interests** revolve around:  
 * Intelligent Robotics
 * Autonomous Vehicles / Platforms
 * Mobile robots
@@ -59,7 +62,7 @@ I'm also studying the Space and Technology minor program.🚀
 
 <!-- </font> -->
 
-# Skills
+# Skills  
 ---
 * Programming Languages :C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
 * Robotics & Machine Learning: ROS / Webots / Linux / Pytorch / Tensorflow / Keras  
@@ -68,56 +71,18 @@ I'm also studying the Space and Technology minor program.🚀
 * Web programming : HTML / CSS / javaScript / firebase / Cocos Creator  
 * English Ability:   
 TOEFL iBT: **Total:110** R:29 / L:30 / S:23 / W:28   
-GRE Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
-
+GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 
 
 # Recent Projects
 ---
-## 1. Hockey Mobile Robot
-*Course: Mobile Robots - 2020 Fall*
-
-**(1) Checkpoint 3: Find LED light puck with motion control**
-
-[checkpoint 3 demo video](https://drive.google.com/file/d/1zaX19EB-yivTNpUmGQVsYTQhP94Uupvv/view?usp=sharing)
-
-* Use only 14 seconds to complete both **obstacle avoidance** and **target achievement**.
-
-Full Assembly: 
-
-![CP3 Assembly Picture](http://goroyeh56.github.io/images/FullAssembly.jpg)
-
-Full Assembly (Side view) :  
-
-![CP3 Assembly Picture](http://goroyeh56.github.io/images/sideview.jpg)
-
-The two **obstacle avoidance touch sensors**:
-
-![Touch Sensors](http://goroyeh56.github.io/images/touchsensors.jpg)
-
-**Light Sensor** (Inside the black box) and the **GOAL touch sensor**
-
-![Light Sensor](http://goroyeh56.github.io/images/lightsensor.jpg)
-
-
-
-
-## 2. Locobot
-*Course: Robotic Systems Design and Implementation - 2020 Fall*
-
-**(1) Motion Control on LocoBot**
-
-[Motion Control demo01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)  
-
-This task is to control the robot to move to the specify points with correct orientations.
-The robot localizes itself using **odometry**.
-
-**(2) vSLAM Navigation on LocoBot**
-
-[vSLAM demo02 video](https://drive.google.com/file/d/1fZ53xHebRdCqcuXbfeu4zBOgNLSjl-qJ/view?usp=sharing)
-
-**Notes:** The robot navigates the environment using vSLAM with depth camera Intel Realsense D435, **NOT simply follows the line!!** (The line is for human to verify the precision of the robot performance, it's for grading.)
+## [1. Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)  
+## [2. Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)  
+## [3. LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)  
+## [4. Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)  
+## [5. Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)  
+## [6. Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)  
 
 
 # Certificates 

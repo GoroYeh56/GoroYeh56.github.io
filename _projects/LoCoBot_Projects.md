@@ -6,11 +6,20 @@ collection: projects
 
 ## Demo 01 - Motion Control with Odometry Localization
 
+This task is to control the robot to move to the specify points with correct orientations.  
+The robot localizes itself using **odometry**.  
 [Demo 01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)  
+
+<!-- [Motion Control demo01 video](https://drive.google.com/file/d/1XaGVPrnuRgJ0-xMU_h5E_yl-XiQP8iLu/view?usp=sharing)   -->
 
 ## Demo 02 - Navigation using vSLAM with D435 depth camera
 
+**Notes:** The robot navigates the environment using vSLAM with depth camera Intel Realsense D435, **NOT simply follows the line!!** (The line is for human to verify the precision of the robot performance, it's for grading.)  
+
 [Demo 02 video](https://drive.google.com/file/d/1fZ53xHebRdCqcuXbfeu4zBOgNLSjl-qJ/view?usp=sharing)  
+
+<!-- [vSLAM demo02 video](https://drive.google.com/file/d/1fZ53xHebRdCqcuXbfeu4zBOgNLSjl-qJ/view?usp=sharing) -->
+
 
 ## Final Contest - Object Classification and Recycling
 * First Stage: Motion Control from starting point to goal location  
