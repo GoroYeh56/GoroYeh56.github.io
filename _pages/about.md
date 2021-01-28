@@ -13,7 +13,7 @@ redirect_from:
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
 
 
-## Table of Contents
+## Table of Contents  
 - [About me](#about-me)
 - [Skills](#skills)
 - [Recent Projects](#recent-projects)
@@ -32,8 +32,7 @@ redirect_from:
 - [Hobbies](#hobbies)
   * [Top Movies:](#top-movies-)
 
-<!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
-
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 # About me
@@ -61,8 +60,6 @@ I'm also studying the Space Technology and Engineering Program.🚀
 * embedded systems
 
 
-<!-- </font> -->
-
 # Skills  
 ---
 * Programming Languages :C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
@@ -78,18 +75,18 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 # Recent Projects
 ---
-## 1. Parallel Programming - NTHU, fall 2020    
-* [Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)
-## 2. Mobile Robots - NCTU, fall 2020  
-* [Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/) 
-## 3. LoCoBot Projects - NCTU, fall 2020  
-* [LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/) 
-## 4. Rocket Design and Realization - NCTU, fall 2020  
-* [Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)  
-## 5. Machine Learning - NTHU, fall 2020   
+## 1. Parallel Programming - NTHU, fall 2020
+* [Parallel Programming](https://goroyeh56.github.io/projects/ParallelProgramming/)  
+## 2. Mobile Robots - NCTU, fall 2020
+* [Mobile Robots](https://goroyeh56.github.io/projects/MobileRobots/)   
+## 3. LoCoBot Projects - NCTU, fall 2020
+* [LoCoBot Projects](https://goroyeh56.github.io/projects/LoCoBot_Projects/)   
+## 4. Rocket Design and Realization - NCTU, fall 2020
+* [Rocket Design and Realization](https://goroyeh56.github.io/projects/RocketDesign/)    
+## 5. Machine Learning - NTHU, fall 2020
 * [Machine Learning](https://goroyeh56.github.io/projects/MachineLearning/)  
-## 6. Operating System- NTHU, fall 2020  
-* [Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)
+## 6. Operating System- NTHU, fall 2020 
+* [Operating System](https://goroyeh56.github.io/projects/OperatingSystem/)  
 
 # Certificates 
 ---
