@@ -5,7 +5,7 @@ permalink: /research/6U_CubeSat
 excerpt: 'Simulate On-Board Communication between Satellite Subsystems with UART and CAN Bus.'
 # date: Mar. 2020 ~ Jun. 2020
 ---
-*National Space Organization*
+*National Space Organization*  
 *Mar. 2020 ~ Jun. 2020*  
 
 * This research is about using UART and CAN bus as communication protocol
