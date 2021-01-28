@@ -39,6 +39,7 @@ collection: projects
 * [Spec](https://apollo.cs.nthu.edu.tw/pp20/hw4-1/#input-output-format)  
 * Number of Vertices: from 2 to  40000    
 * Number of Edges: from 0 to  V*(V-1)  
+  
 ## HW4-2: Block All-Pair Shortest Path (Multi-GPU version)  
 * [Spec](https://apollo.cs.nthu.edu.tw/pp20/hw4-2/)  
 * Number of Vertices: from 2 to  60000    
