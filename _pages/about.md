@@ -54,11 +54,11 @@ I'm also studying the Space Technology and Engineering Program.🚀
 
 # Skills  
 ---
-* Programming Languages :C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
+* Programming Languages: C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
 * Robotics & Machine Learning: ROS / Webots / Linux / Pytorch / Tensorflow / Keras  
-* Mechanical & Electronics & Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
+* Mechanical & Electronics: Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
 * Tools: Matlab / Simulink / Verilog / FPGA / LTSpice / Latex  
-* Web programming : HTML / CSS / javaScript / firebase / Cocos Creator  
+* Web programming: HTML / CSS / javaScript / firebase / Cocos Creator  
 * English Ability:   
 TOEFL iBT: **Total:110** R:29 / L:30 / S:23 / W:28   
 GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
