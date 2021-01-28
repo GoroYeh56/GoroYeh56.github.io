@@ -8,8 +8,6 @@ excerpt: "Course project of Attitude Determination and Control of Spacecrafts <b
 collection: projects
 ---
 <!-- Todo: revise the image. -->
-
-<!-- # paperurl: 'http://academicpages.github.io/files/paper2.pdf' -->
 This is a course project about using Matlab Simulink to construct a complete **attitude control system of a spacecraft**.
 
 The guidance algorithm includes Bdot control, Sun pointin, Earth pointing, etc.
@@ -18,6 +16,6 @@ For more details, below is the link to our report in English.
 
 To see more information, please refer to the link below:
 
-[Github repository - ADCS Final project](https://,,,)
+[Github repository - ADCS Final project]()
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
