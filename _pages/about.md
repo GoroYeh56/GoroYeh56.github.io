@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QLJV6N35GZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QLJV6N35GZ');
+</script>
+
+
 
 <!-- My photo in Denmark -->
 ![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
