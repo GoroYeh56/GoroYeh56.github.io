@@ -78,11 +78,12 @@ analytics:
     tracking_id          :
 
 
+# Currently pursuing a Bachelor's degree in Computer Science and Power Mechanical Engineering at National Tsing Hua University. Interested in Deep Reinforcement Learning, Robotics and Intelligent Systems."
 # Site Author
 author:
   name             : "Goro Yeh"
   avatar           : "Goro.jpg"
-  bio              : "Currently pursuing a Bachelor's degree in Computer Science and Power Mechanical Engineering at National Tsing Hua University. Interested in Deep Reinforcement Learning, Robotics and Intelligent Systems."
+  bio              : "Robotics MS student @ UMich. BS in Computer Science and Power Mechanical Engineering @ NTHU in Taiwan. Proficient in SLAM, computer vision, and motion planning algorithms."
   location         : "Hsinchu, Taiwan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/goro-yeh-6780041bb/
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
