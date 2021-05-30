@@ -8,20 +8,20 @@ redirect_from:
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
 
-* Below is my curriculum vitae in .pdf file:
-[Goro Yeh's CV](https://drive.google.com/file/d/12NhqUSpYzCcu-NS_GcCuPVGqqRT2REmf/view?usp=sharing)
+* Below is my resume in .pdf file:
+[Goro Yeh's CV](https://drive.google.com/file/d/18Jp9lQVMSj2VNzi6WRnHwBzhAKv25aID/view?usp=sharing)
 
 
-![](http://goroyeh56.github.io/images/CV01.jpg)
-![](http://goroyeh56.github.io/images/CV02.jpg)
+<!-- ![](http://goroyeh56.github.io/images/CV01.jpg)
+![](http://goroyeh56.github.io/images/CV02.jpg) -->
 <!-- Google Drive -->
 
 
 <!-- {% comment %} -->
 <!-- <embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general.pdf" /> -->
-<object data="http://goroyeh56.github.io/files/Goro_CV_medium_general_v2.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://goroyeh56.github.io/files/Goro_CV_medium_general_v2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://goroyeh56.github.io/files/Goro_CV_medium_general_v2.pdf">Download PDF</a>.</p>
+<object data="https://drive.google.com/file/d/18Jp9lQVMSj2VNzi6WRnHwBzhAKv25aID/view?usp=sharing" type="application/pdf" width="700px" height="700px">
+    <embed src="https://drive.google.com/file/d/18Jp9lQVMSj2VNzi6WRnHwBzhAKv25aID/view?usp=sharing">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/18Jp9lQVMSj2VNzi6WRnHwBzhAKv25aID/view?usp=sharing">Download PDF</a>.</p>
     </embed>
 </object>
 
