@@ -95,11 +95,11 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 ---
 ## 1. Robotics - Coursera
 
-![Robotics - Coursera](http://goroyeh56.github.io/images/Certificate_Robotics.jpg)
+![Robotics - Coursera](http://goroyeh56.github.io/images/Coursera Robotics1 42A8JESE8EYU-1.jpg)
 
 ## 2. Deep Learning (Neural Networks) - Coursera
 
-![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/coursera_deeplearning.jpg)
+![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/Coursera DeepLearning 42A8JESE8EYU-1.jpg)
 
 ## 3. Basics Computer Vision - Nvidia course
 
