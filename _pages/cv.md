@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * Below is my resume in .pdf file:
-[Goro Yeh's CV](https://drive.google.com/file/d/18Jp9lQVMSj2VNzi6WRnHwBzhAKv25aID/view?usp=sharing)
+[Goro Yeh's CV](https://drive.google.com/file/d/18j-5lAJUULRsuq7RbnqC4fDFuUWjDWtx/view?usp=sharing)
 
 
 <!-- ![](http://goroyeh56.github.io/images/CV01.jpg)
