@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Recent Projects"
+    url: /recent_projects/
+
   - title: "Projects"
     url: /projects/ 
     
