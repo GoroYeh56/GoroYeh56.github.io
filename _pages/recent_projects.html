@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Recent Projects"
+permalink: /recent_projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+<h2>Table of contents:</h2>
+
+{% capture markdown %}
+{% for post in site.recent_projects %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endcapture %}
+
+{% assign content = markdown | markdownify %}
+{% include toc.html html=content %}
+
+
+{% for post in site.recent_projects %}
+  {% include archive-single.html %}
+{% endfor %}
