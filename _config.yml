@@ -188,6 +188,10 @@ collections:
   # talks:
     # output: true
     # permalink: /:collection/:path/
+  recent_projects:
+    output: true
+    permalink: /:collection/:path/
+
   projects:
     output: true
     permalink: /:collection/:path/
@@ -254,6 +258,18 @@ defaults:
       # layout: talk
       # author_profile: true
       # share: true
+
+  # _Recent_projects
+  - scope:
+      path: ""
+      type: recent_projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+
   # _projects
   - scope:
       path: ""
