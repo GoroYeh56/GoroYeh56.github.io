@@ -32,10 +32,11 @@ redirect_from:
 - [Certificates](#certificates)
   * [1. Robotics - Coursera](#1-robotics---coursera)
   * [2. Deep Learning (Neural Networks) - Coursera](#2-deep-learning--neural-networks----coursera)
-  * [3. Basics Computer Vision - Nvidia course](#3-basics-computer-vision---nvidia-course)
+    + [3. Self-Driving Cars - Coursera](#3-self-driving-cars---coursera)
+    + [Industrial Technology Research Institute](#industrial-technology-research-institute)
 - [Activities](#activities)
 - [Hobbies](#hobbies)
-  * [Top Movies:](#top-movies-)  
+  * [Top Movies:](#top-movies-) 
 <!-- <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small> -->
 
 
