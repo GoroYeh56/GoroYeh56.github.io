@@ -104,7 +104,7 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 ![Deep Learning - Andrew Ng Coursera](http://goroyeh56.github.io/images/Coursera DeepLearning 42A8JESE8EYU-1.jpg)
 
-### 3. Self-Driving Cars - Coursera
+## 3. Self-Driving Cars - Coursera
 
 <!-- ## 3. Basics Computer Vision - Nvidia course -->
 

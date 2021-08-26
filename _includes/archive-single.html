@@ -58,7 +58,11 @@
 
     <!-- This is for post.excerpt ! -->
 
-
+    {% if post.collection == 'recent_projects' %}
+      {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
+    {% endif %}
 
 
     {% if post.collection == 'projects' %}
@@ -66,11 +70,7 @@
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
     {% else %}
-            {% if post.collection == 'recent_projects' %}
-              {% if post.excerpt %}
-              <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-              {% endif %}
-            {% endif %}
+
 
             {% if post.collection == 'teaching' %}
               <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
