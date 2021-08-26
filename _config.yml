@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Goro Yeh"
-  avatar           : "Mt_Chilai2.jpg"
+  avatar           : "ChiMuoGongLu.jpg" #"Mt_Chilai2.jpg"
   bio              : "Robotics MS student @ UMich. BS in Computer Science and Power Mechanical Engineering @ NTHU in Taiwan. Proficient in SLAM, computer vision, and motion planning algorithms."
   location         : "Hsinchu, Taiwan"
   employer         :
