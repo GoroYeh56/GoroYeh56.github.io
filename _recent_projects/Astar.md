@@ -5,7 +5,7 @@ title: "A* Navigation with AMCL"
 # paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 excerpt: "Course project of Mobile Robots & Self Driving Cars <br/>" # <img src='/images/ADCS_project.PNG'>"
-collection: projects
+collection: recent_projects
 ---
 <!-- Todo: revise the image. -->
 This is a course project about A* navigation with Adaptive Monte-Carlo Localization with a differential drive robot on Gazebo.

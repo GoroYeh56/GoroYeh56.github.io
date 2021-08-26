@@ -62,14 +62,13 @@
       {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
-    <!-- {% endif %} -->
-    {% else %}
+    {% endif %}
 
     {% if post.collection == 'projects' %}
       {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
       {% endif %}
-    <!-- {% else %} -->
+    {% else %}
 
 
             {% elsif post.collection == 'teaching' %}
