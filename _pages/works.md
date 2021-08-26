@@ -19,7 +19,7 @@ author_profile: true
 * [GitLab repo for odrive ros driver](https://gitlab.com/106030009/odrive_ros_itri)
 
 ## National Center of High-Performance Computing   
-*Machine Learning Intern, Aug. 2019 - Oct. 2020*     
+*Machine Learning Intern, Aug. 2019 - Dec. 2019*     
 
 * Achieved a convolutional neural network to complete image classification tasks with ImageNet dataset.
 * Realized the model with 94\% testing accuracy using Keras and Tensorflow.
