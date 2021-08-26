@@ -11,6 +11,7 @@ redirect_from:
 * Below is my resume in .pdf file:
 [Goro Yeh's CV](https://drive.google.com/file/d/16i8rDfJfiSHm-eBh8rU1uK4P0nkywc1O/view?usp=sharing)
 
+![Mt. Chilai](https://goroyeh56.github.io/images/Mt_Chilai.jpg)
 
 <!-- ![](http://goroyeh56.github.io/images/CV01.jpg)
 ![](http://goroyeh56.github.io/images/CV02.jpg) -->
