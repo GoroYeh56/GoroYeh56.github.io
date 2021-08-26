@@ -64,6 +64,7 @@
       {% endif %}
     {% endif %}
 
+
     {% if post.collection == 'projects' %}
       {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -71,7 +72,7 @@
     {% else %}
 
 
-            {% elsif post.collection == 'teaching' %}
+            {% if post.collection == 'teaching' %}
               <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
             {% elsif post.collection == 'publications' %}
               <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
