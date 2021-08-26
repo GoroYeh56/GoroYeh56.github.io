@@ -21,7 +21,9 @@ redirect_from:
 
 
 <!-- My photo in Denmark -->
-![Top Photo(Denmark)](https://i.imgur.com/CjcJXWK.jpg)
+<!-- ![Top Photo(Denmark)]() -->
+<!-- keelong -->
+![Photo](https://drive.google.com/file/d/1Ea_tz037q4eKkmi9b-QIn3FNqqYLf31b/view?usp=sharing)
 
 
 ## Table of Contents  
@@ -45,13 +47,14 @@ Hello, my name is Goro Yeh and I'm from [Hsinchu, Taiwan](https://www.google.com
 
 I am enthusiastic about **robotics** and **software engineering**.
 
-I'm currently pursuing my Bbachelor's degree in Computer Engineering
-and Power Mechanical Engineering at [National Tsing Hua University](http://nthu-en.site.nthu.edu.tw/).
+I'm currently pursuing my Master's degree in Robotics at the University of Michigan, Ann Arbor.
+I got my Bachelor's degree in Computer Science and Power Mechanical Engineering at [National Tsing Hua University](http://nthu-en.site.nthu.edu.tw/).
 
 [NTHU CS](http://dcs-en.site.nthu.edu.tw/index.php)  
 [NTHU PME](http://www.pme.nthu.edu.tw/index.php?Lang=en)  
 
-I'm also studying the Space Technology and Engineering Program.🚀  
+I also had the certificate of  Space Technology and Engineering Program.🚀  
+<!-- Certificate scanned -->
 [Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw)
 
 **My research interests** revolve around:  
