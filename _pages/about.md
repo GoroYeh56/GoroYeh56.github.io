@@ -23,8 +23,7 @@ redirect_from:
 <!-- My photo in Denmark -->
 <!-- ![Top Photo(Denmark)]() -->
 <!-- keelong -->
-![Photo](https://drive.google.com/file/d/1Ea_tz037q4eKkmi9b-QIn3FNqqYLf31b/view?usp=sharing)
-
+![Keelong Photo](http://goroyeh56.github.io/images/Keelong.jpg)
 
 ## Table of Contents  
 - [About me](#about-me)
