@@ -8,7 +8,7 @@ redirect_from:
 #  paperurl: 'http://academicpages.github.io/files/cv.pdf'  
 ---
 
-* Below is my resume in .pdf file:
+* My resume in .pdf file:
 [Goro Yeh's CV](https://drive.google.com/file/d/16i8rDfJfiSHm-eBh8rU1uK4P0nkywc1O/view?usp=sharing)
 
 ![Mt. Chilai](https://goroyeh56.github.io/images/Mt_Chilai.jpg)
