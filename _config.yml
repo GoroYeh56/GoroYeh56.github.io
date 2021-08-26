@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Goro Yeh"
   avatar           : "ChiMuoGongLu.jpg" #"Mt_Chilai2.jpg"
-  bio              : "Robotics MS student @ UMich. BS in Computer Science and Power Mechanical Engineering @ NTHU in Taiwan. Proficient in SLAM, computer vision, and motion planning algorithms."
-  location         : "Hsinchu, Taiwan"
+  bio              : "Robotics MS student @ UMich. Research in Motion Planning, SLAM, and Reinforcement Learning."
+  location         : "Ann Arbor, Michigan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : goroyeh56@gmail.com
+  email            : goroyeh@umich.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
