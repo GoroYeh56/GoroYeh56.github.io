@@ -81,9 +81,9 @@ analytics:
 # Currently pursuing a Bachelor's degree in Computer Science and Power Mechanical Engineering at National Tsing Hua University. Interested in Deep Reinforcement Learning, Robotics and Intelligent Systems."
 # Site Author
 author:
-  name             : "Goro Yeh"
+  name             : "Zheng-Hang (Goro) Yeh"
   avatar           : "ChiMuoGongLu.jpg" #"Mt_Chilai2.jpg"
-  bio              : "Robotics MS student @ UMich. Research in Motion Planning, SLAM, and Reinforcement Learning."
+  bio              : "Robotics MS @ UMich. Research in Motion Planning, SLAM, and Reinforcement Learning."
   location         : "Ann Arbor, Michigan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

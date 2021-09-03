@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * My resume in .pdf file:
-[Goro Yeh's CV](https://drive.google.com/file/d/16i8rDfJfiSHm-eBh8rU1uK4P0nkywc1O/view?usp=sharing)
+[Zheng-Hang (Goro) Yeh's CV](https://drive.google.com/file/d/1WULJGZZO3jXUenVW7KOAf6NoN1PtM7jp/view?usp=sharing)
 
 ![Mt. Chilai](https://goroyeh56.github.io/images/Mt_Chilai.jpg)
 

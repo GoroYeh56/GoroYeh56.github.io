@@ -64,15 +64,15 @@ I got my Bachelor's degree in Computer Science and Power Mechanical Engineering 
 
 I also had the certificate of  Space Technology and Engineering Program.🚀  
 <!-- Certificate scanned -->
-[Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw) -->
+<!-- [Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw) --> 
 
 **My research interests** revolve around:  
 * Intelligent Robotics
 * Autonomous Vehicles / Platforms
-* Mobile robots
-* machine intelligence
-* mechatronic control systems
-* embedded systems
+* Mobile Robots
+* Machine Intelligence
+* Mechatronic Control Systems
+* Embedded Systems
 
 
 # Skills  
@@ -90,6 +90,8 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 # Recent Projects
 ---
+
+[Recent Projects](https://goroyeh56.github.io/recent_projects/)
 <!-- ## 1. Parallel Programming - NTHU, fall 2020 -->
 * [1. Parallel Programming - NTHU, fall 2020](https://goroyeh56.github.io/projects/ParallelProgramming/)  
 <!-- ## 2. Mobile Robots - NCTU, fall 2020 -->
@@ -115,9 +117,10 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 ## 3. Self-Driving Cars - Coursera
 
-
 [State Estimation for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/MA7KBUP6BXJX)
+
 [Motion Planning for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/LVXVJC75AM94)
+
 [Visual Perception for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/4MQM5WULYH4Y)
 <!-- ## 3. Basics Computer Vision - Nvidia course -->
 
