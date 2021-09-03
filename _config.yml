@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Goro Yeh"
+title                    : "Zheng-Hang (Goro) Yeh"
 title_separator          : "-"
-name                     : &name "Goro Yeh"
+name                     : &name "Zheng-Hang (Goro) Yeh"
 description              : &description "IPE at NTHU"
 url                      : https://GoroYeh56.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

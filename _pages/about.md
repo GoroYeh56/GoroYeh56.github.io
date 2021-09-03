@@ -42,6 +42,16 @@ redirect_from:
 # About me
 ---
 
+Zheng-Hang is pursuing his master's degree in Robotics at the University of Michigan and would complete his study in April 2023. He got his Bachelor's degree in Computer Science and Power Mechanical Engineering at NTHU and he graduated as the top person in college of engineering with a GPA 4.13/4.3.
+
+Zheng-Hang has developed the first outdoor skid-steering mobile robot during his internship at Taiwan’s Technology Research center (ITRI). He launched some open source ROS packages and improve the communication efficiency between the joystick and the robot.
+
+In addition to his engineering ability, he is good at leadership and communications by holding some large events during his undergraduate time
+
+
+
+
+<!-- 
 Hello, my name is Goro Yeh and I'm from [Hsinchu, Taiwan](https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%B0%E7%AB%B9/@24.6293865,120.6178652,10z/data=!4m5!3m4!1s0x346835db1a4b4b11:0xd409dcbcb5d33b0c!8m2!3d24.8138287!4d120.9674798).
 
 I am enthusiastic about **robotics** and **software engineering**.
@@ -54,7 +64,7 @@ I got my Bachelor's degree in Computer Science and Power Mechanical Engineering 
 
 I also had the certificate of  Space Technology and Engineering Program.🚀  
 <!-- Certificate scanned -->
-[Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw)
+[Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw) -->
 
 **My research interests** revolve around:  
 * Intelligent Robotics
@@ -67,8 +77,8 @@ I also had the certificate of  Space Technology and Engineering Program.🚀
 
 # Skills  
 ---
-* Programming Languages: C / C++/ Python / MPI / OpenMP / Pthread / CUDA  
-* Robotics & Machine Learning: ROS / Webots / Linux / Pytorch / Tensorflow / Keras  
+* Programming Languages: C / C++/ Python / MATLAB / MPI / OpenMP / Pthread / CUDA  
+* Robotics & Machine Learning: ROS / CARLA / Webots / Linux / Pytorch / Tensorflow / Keras  
 * Mechanical & Electronics: Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
 * Tools: Matlab / Simulink / Verilog / FPGA / LTSpice / Latex  
 * Web programming: HTML / CSS / javaScript / firebase / Cocos Creator  
@@ -105,6 +115,10 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
 ## 3. Self-Driving Cars - Coursera
 
+
+[State Estimation for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/MA7KBUP6BXJX)
+[Motion Planning for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/LVXVJC75AM94)
+[Visual Perception for Self-Driving Cars](https://www.coursera.org/account/accomplishments/certificate/4MQM5WULYH4Y)
 <!-- ## 3. Basics Computer Vision - Nvidia course -->
 
 <!-- ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg) -->
