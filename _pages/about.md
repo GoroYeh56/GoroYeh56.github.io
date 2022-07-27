@@ -49,24 +49,6 @@ Zheng-Hang has developed the first outdoor skid-steering mobile robot during his
 
 In addition to his engineering ability, he is good at leadership and communications by holding some large events during his undergraduate time
 
-
-
-
-<!-- 
-Hello, my name is Goro Yeh and I'm from [Hsinchu, Taiwan](https://www.google.com/maps/place/%E6%96%B0%E7%AB%B9%E5%B8%82%E6%96%B0%E7%AB%B9/@24.6293865,120.6178652,10z/data=!4m5!3m4!1s0x346835db1a4b4b11:0xd409dcbcb5d33b0c!8m2!3d24.8138287!4d120.9674798).
-
-I am enthusiastic about **robotics** and **software engineering**.
-
-I'm currently pursuing my Master's degree in Robotics at the University of Michigan, Ann Arbor.
-I got my Bachelor's degree in Computer Science and Power Mechanical Engineering at [National Tsing Hua University](http://nthu-en.site.nthu.edu.tw/).
-
-[NTHU CS](http://dcs-en.site.nthu.edu.tw/index.php)  
-[NTHU PME](http://www.pme.nthu.edu.tw/index.php?Lang=en)  
-
-I also had the certificate of  Space Technology and Engineering Program.🚀  
-<!-- Certificate scanned -->
-<!-- [Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw) --> 
-
 **My research interests** revolve around:  
 * Autonomous Vehicles
 * Intelligent Robotics
@@ -98,7 +80,7 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 [Report](https://ummobileroboticst19.github.io/docs/EECS568_Final_Project%20(1).pdf)  
 
 ## 2. Neural Radience Field for Novel View Synthesis
-*mini-project of EECS598: Deep Learning for Computer Vision by Justin Johnson - Winter 2022*
+*mini-project of EECS598: Deep Learning for Computer Vision by Justin Johnson - Winter 2022*  
 ![Result-Hot Dog](http://goroyeh56.github.io/images/FastNeRF_hotdog_testpose.png)  
 [Demo Video - LEGO](https://drive.google.com/file/d/1-NGT1dvxB2884tfFQPPRPmxMo-B0jRPY/view?usp=sharing)  
 [Demo Video - Ship](https://drive.google.com/file/d/10S9L2DskK7MUspWgbUMrxkDzBnbOD-NX/view?usp=sharing)  
@@ -106,34 +88,67 @@ See our MiniProject.ipynp on github to go through our project. (Recommend open i
 [Github Link](https://github.com/GoroYeh56/NeRF-EECS598-mini-project)  
 
 ## 3. Algorithmic Robotics Projects:
-*EECS498: Introduction to Algorithmic Robotcs - Fall 2021*
+*EECS498: Introduction to Algorithmic Robotcs - Fall 2021*  
 
-[RRT video]()
-[A* video]()
-[Path Planning](https://github.com/GoroYeh56/EECS498-HW3-Planning)
+### RRT : Find path for a robot arm
 
-![PCA Picture]()
-![RANSAC Picture]()
-![ICP Picture]()
-[Point Clouds](https://github.com/GoroYeh56/EECS498-HW4-PointClouds)  
+![Path w/o shortcut smoothing](http://goroyeh56.github.io/images/rrt_final_right.png)  
+![Path after shortcut smoothing (blue one)](http://goroyeh56.github.io/images/rrt_shortcut_final_righttop2.png)
+![Path after shortcut smoothing (blue one)](http://goroyeh56.github.io/images/rrt_shortcut_v4_right.png)  
+[RRT video](https://drive.google.com/file/d/1pIQdsYTxvl0hrNRK9ju470rO_z1HfXZp/view?usp=sharing)   
 
-[Optimizations](https://github.com/GoroYeh56/EECS498-HW2-Optimizations)  
+### A* : Find path for a 2D robot
 
-[Final Project: Localization](https://github.com/GoroYeh56/EECS498-FinalProject-PFEKFLocalizations)  
+![A* - 4 directions](http://goroyeh56.github.io/images/astar_4connect.png)  
+![A* - 8 directions](http://goroyeh56.github.io/images/astar_8connect.png)  
+[A* video](https://drive.google.com/file/d/1ZpTXnvwAvXD1HApsdJ3nkIz_6UzvFyd2/view?usp=sharing)    
+[Github repo: Path Planning](https://github.com/GoroYeh56/EECS498-HW3-Planning)  
 
+### Principle Component Analysis
+
+![Before ](http://goroyeh56.github.io/images/pca_before.png)  
+![PCA Picture](http://goroyeh56.github.io/images/pca_after.png)  
+
+### Random Sample Consensur  
+![RANSAC Picture](http://goroyeh56.github.io/images/ransac_plane.png)  
+
+### Iterative Closest Point
+![Before 0](http://goroyeh56.github.io/images/icp_before0.png)  
+![After 0](http://goroyeh56.github.io/images/icp_after0.png)  
+![Before 1](http://goroyeh56.github.io/images/icp_before1.png)  
+![After 1](http://goroyeh56.github.io/images/icp_after1.png)  
+![Before 2](http://goroyeh56.github.io/images/icp_before2.png)  
+![After 2](http://goroyeh56.github.io/images/icp_after2.png)  
+![Before 3](http://goroyeh56.github.io/images/icp_before3.png)  
+![After 3](http://goroyeh56.github.io/images/icp_after3.png)  
+
+[Github repo: Point Clouds](https://github.com/GoroYeh56/EECS498-HW4-PointClouds)   
+
+### Optimizations:
+(1) Newton's Method  
+(2) Gradient Descent
+(3) Stochastic Gradient Descent
+(4) Linear Programming  
+[Github repo: Optimizations](https://github.com/GoroYeh56/EECS498-HW2-Optimizations)  
+
+### Localizations
+(1) Extended Kalman Filter
+(2) Particle Filter  
+[Github repo: Final Project: Localization](https://github.com/GoroYeh56/EECS498-FinalProject-PFEKFLocalizations)  
 
 
 ## 4. Botlab
-*ROB550: Robotic Systems Lab - Fall 2021*
-An autonomous exploration & SLAM differential drive robot.
-[Demo Video]()  
+*ROB550: Robotic Systems Lab - Fall 2021*  
+An autonomous exploration & SLAM differential drive robot.  
+[Demo Video](https://drive.google.com/file/d/1LLmSgk1DyYaXpnwedho7idKNOasgMRU8/view?usp=sharing)    
+[Returning Home: ](https://drive.google.com/file/d/19FxSfbWkGWm6o__9wJy7Z6kk4dVCbGgS/view?usp=sharing)  
 [Report](https://drive.google.com/file/d/19NG-Z19X_5RVaziASVfgt8ZLQJly9NSd/view?usp=sharing)    
 [Github - Botlab](https://github.com/GoroYeh56/botlab)  
 [GIthub - mobilebot (for BeagleboneBlue motor control)](https://github.com/GoroYeh56/mobilebot)  
 
 ## 5. Armlab
-*ROB550: Robotic Systems Lab - Fall 2021*
-An autonomous object detection & object placement manipulator
+*ROB550: Robotic Systems Lab - Fall 2021*  
+An autonomous object detection & object placement manipulator  
 [Demo Video]()
 [Report](https://drive.google.com/file/d/1CAZRuW4dOnzVPd56Fh49sJIm4V-vKsD0/view?usp=sharing)  
 [Github - armlab](https://github.com/GoroYeh56/armlab)  
