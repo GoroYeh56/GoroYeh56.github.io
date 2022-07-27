@@ -109,7 +109,7 @@ See our MiniProject.ipynp on github to go through our project. (Recommend open i
 ![Before ](http://goroyeh56.github.io/images/pca_before.png)  
 ![PCA Picture](http://goroyeh56.github.io/images/pca_after.png)  
 
-### Random Sample Consensur  
+### Random Sample Consensus
 ![RANSAC Picture](http://goroyeh56.github.io/images/ransac_plane.png)  
 
 ### Iterative Closest Point
@@ -132,8 +132,13 @@ See our MiniProject.ipynp on github to go through our project. (Recommend open i
 [Github repo: Optimizations](https://github.com/GoroYeh56/EECS498-HW2-Optimizations)  
 
 ### Localizations
-(1) Extended Kalman Filter
+Given a specified path we designed, compare the localization performances of following two methods:
+[Robot Path](https://drive.google.com/file/d/1nbovyahWLXdohnVuUQF8bAwlMQu2ES7h/view?usp=sharing)  
+(1) Extended Kalman Filter  
+![EKF Result](http://goroyeh56.github.io/images/EKF.png)     
 (2) Particle Filter  
+![PF Result](http://goroyeh56.github.io/images/PF.png)  
+[Report](https://drive.google.com/file/d/1ADS5jAMvyiZKt917NWJrvYI2_tq6gVZt/view?usp=sharing)  
 [Github repo: Final Project: Localization](https://github.com/GoroYeh56/EECS498-FinalProject-PFEKFLocalizations)  
 
 
