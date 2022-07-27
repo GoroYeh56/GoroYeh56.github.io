@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 * My resume in .pdf file:
-[Zheng-Hang (Goro) Yeh's CV](https://drive.google.com/file/d/1WULJGZZO3jXUenVW7KOAf6NoN1PtM7jp/view?usp=sharing)
+[Zheng-Hang (Goro) Yeh's CV](https://drive.google.com/file/d/1CmmAdtkMfmhzBd19i3aU8bANqCpxtFtR/view?usp=sharing)  
 
-![Mt. Chilai](https://goroyeh56.github.io/images/Mt_Chilai.jpg)
+![Goro @ Brooklyn Bridge](https://goroyeh56.github.io/images/goro_brooklyn.png)
 
 <!-- ![](http://goroyeh56.github.io/images/CV01.jpg)
 ![](http://goroyeh56.github.io/images/CV02.jpg) -->
