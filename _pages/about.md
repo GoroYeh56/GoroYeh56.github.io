@@ -42,8 +42,9 @@ redirect_from:
 # About me
 ---
 
-Zheng-Hang is pursuing his master's degree in Robotics at the University of Michigan and would complete his study in April 2023. He got his Bachelor's degree in Computer Science and Power Mechanical Engineering at NTHU and he graduated as the top person in college of engineering with a GPA 4.13/4.3.
+Zheng-Hang is a rising 2nd year master student in Robotics at the University of Michigan and would complete his study in April 2023. He got his Bachelor's degree in Computer Science and Power Mechanical Engineering at NTHU and he graduated as the top person in college of engineering with a GPA 4.13/4.3.
 
+Zheng-Hang is currently a system software intern at APTIV advanced engineering team, assisting engineers in optimizing the ADAS(Advanced Driver Assistance System) features and performance on the testing vehicle in real-time.  
 Zheng-Hang has developed the first outdoor skid-steering mobile robot during his internship at Taiwan’s Technology Research center (ITRI). He launched some open source ROS packages and improve the communication efficiency between the joystick and the robot.
 
 In addition to his engineering ability, he is good at leadership and communications by holding some large events during his undergraduate time
@@ -67,31 +68,80 @@ I also had the certificate of  Space Technology and Engineering Program.🚀
 <!-- [Space Technology and Engineering Program](http://curricul.site.nthu.edu.tw/p/406-1208-156303,r1433.php?Lang=zh-tw) --> 
 
 **My research interests** revolve around:  
+* Autonomous Vehicles
 * Intelligent Robotics
-* Autonomous Vehicles / Platforms
 * Mobile Robots
 * Machine Intelligence
 * Mechatronic Control Systems
 * Embedded Systems
 
-
 # Skills  
 ---
-* Programming Languages: C / C++/ Python / MATLAB / MPI / OpenMP / Pthread / CUDA  
-* Robotics & Machine Learning: ROS / CARLA / Webots / Linux / Pytorch / Tensorflow / Keras  
-* Mechanical & Electronics: Arduino / Raspberry Pi / stm32 / Solidworks / AutoCAD  
-* Tools: Matlab / Simulink / Verilog / FPGA / LTSpice / Latex  
+* Knowledge: Probablistic Filtering / SLAM / Motion Planning / Deep Learning / Parallel Programming
+* Programming Languages: C++ / Python / C / MPI / OpenMP / Pthread / CUDA  
+* Robotics & Machine Learning: ROS / Linux(Ubuntu) / Webots / Pytorch / Tensorflow / Keras  
+* Mechanical & Electronics: Arduino / Raspberry Pi / stm32 / Solidworks / Inventor 
+* Tools: MATLAB / Git / Simulink / Verilog / FPGA / LTSpice / Latex  
 * Web programming: HTML / CSS / javaScript / firebase / Cocos Creator  
 * English Ability:   
 TOEFL iBT: **Total:110** R:29 / L:30 / S:23 / W:28   
 GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 
-
-
 # Recent Projects
 ---
+*ROB530 Mobile Robotics - Winter 2022*
+## 1. Multi-agent Visual SLAM
 
-[Recent Projects](https://goroyeh56.github.io/recent_projects/)
+[Demo Video](https://www.youtube.com/watch?v=w1nkEfZI4GE)  
+[Github repository](https://github.com/UMMobileRoboticsT19/Multi-Agent-Visual-SLAM)  
+[Website](https://ummobileroboticst19.github.io/)  
+[Report](https://ummobileroboticst19.github.io/docs/EECS568_Final_Project%20(1).pdf)  
+
+## 2. Neural Radience Field for Novel View Synthesis
+*mini-project of EECS598: Deep Learning for Computer Vision by Justin Johnson - Winter 2022*
+![Result-Hot Dog](http://goroyeh56.github.io/images/FastNeRF_hotdog_testpose.png)  
+[Demo Video - LEGO](https://drive.google.com/file/d/1-NGT1dvxB2884tfFQPPRPmxMo-B0jRPY/view?usp=sharing)  
+[Demo Video - Ship](https://drive.google.com/file/d/10S9L2DskK7MUspWgbUMrxkDzBnbOD-NX/view?usp=sharing)  
+See our MiniProject.ipynp on github to go through our project. (Recommend open it on Google CoLab)
+[Github Link](https://github.com/GoroYeh56/NeRF-EECS598-mini-project)  
+
+## 3. Algorithmic Robotics Projects:
+*EECS498: Introduction to Algorithmic Robotcs - Fall 2021*
+
+[RRT video]()
+[A* video]()
+[Path Planning](https://github.com/GoroYeh56/EECS498-HW3-Planning)
+
+![PCA Picture]()
+![RANSAC Picture]()
+![ICP Picture]()
+[Point Clouds](https://github.com/GoroYeh56/EECS498-HW4-PointClouds)  
+
+[Optimizations](https://github.com/GoroYeh56/EECS498-HW2-Optimizations)  
+
+[Final Project: Localization](https://github.com/GoroYeh56/EECS498-FinalProject-PFEKFLocalizations)  
+
+
+
+## 4. Botlab
+*ROB550: Robotic Systems Lab - Fall 2021*
+An autonomous exploration & SLAM differential drive robot.
+[Demo Video]()  
+[Report](https://drive.google.com/file/d/19NG-Z19X_5RVaziASVfgt8ZLQJly9NSd/view?usp=sharing)    
+[Github - Botlab](https://github.com/GoroYeh56/botlab)  
+[GIthub - mobilebot (for BeagleboneBlue motor control)](https://github.com/GoroYeh56/mobilebot)  
+
+## 5. Armlab
+*ROB550: Robotic Systems Lab - Fall 2021*
+An autonomous object detection & object placement manipulator
+[Demo Video]()
+[Report](https://drive.google.com/file/d/1CAZRuW4dOnzVPd56Fh49sJIm4V-vKsD0/view?usp=sharing)  
+[Github - armlab](https://github.com/GoroYeh56/armlab)  
+
+
+# Older Projects:
+--
+<!-- [Recent Projects](https://goroyeh56.github.io/recent_projects/) -->
 <!-- ## 1. Parallel Programming - NTHU, fall 2020 -->
 * [1. Parallel Programming - NTHU, fall 2020](https://goroyeh56.github.io/projects/ParallelProgramming/)  
 <!-- ## 2. Mobile Robots - NCTU, fall 2020 -->
@@ -127,12 +177,34 @@ GRE: **Total:320** Verbal: 155 / Quantitative: 165 / Analytical Writing: 4.0
 <!-- ![Nvidia Computer Vision](http://goroyeh56.github.io/images/nvidia.jpg) -->
 
 
+
+# Activities
+---
+![Mcity - Baraja LiDAR]()
+
+
+<!-- * Young Entrepreneur of the Future
+![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
+* NTHU Racing Team
+![NTHU Racing](http://goroyeh56.github.io/images/racing2.jpg)
+* Baseball Varsity Team
+![NTHU Baseball](http://goroyeh56.github.io/images/swing.JPG)
+* Tsing Hua International Young Ambassador
+![TIYA](http://goroyeh56.github.io/images/tiya.jpg) -->
+
+# About me:
+
+I like to travel, hike and take photos around the world.
+My photography porfolio: [goroyeh.photography](https://www.instagram.com/goroyeh56.photography/)
+
+
+
 <!-- ## Work Experience
 ### Industrial Technology Research Institute
 Position:  Robotics Intern
 Time:      July 2020 ~ Present -->
 
-# Activities
+<!-- # Activities
 ---
 * Young Entrepreneur of the Future
 ![YEF](http://goroyeh56.github.io/images/yef_elevator_pitch.png)
@@ -166,6 +238,6 @@ Time:      July 2020 ~ Present -->
   * 《The Blind Side》
   * 《Isn't It Romantic》
   * 《Alita: Battle Angel》
-  * 《Pitch Perfect 1-3》  
+  * 《Pitch Perfect 1-3》   -->
 
 
