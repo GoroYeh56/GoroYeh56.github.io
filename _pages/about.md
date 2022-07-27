@@ -154,7 +154,7 @@ An autonomous exploration & SLAM differential drive robot.
 ## 5. Armlab
 *ROB550: Robotic Systems Lab - Fall 2021*  
 An autonomous object detection & object placement manipulator  
-[Demo Video]()
+[Demo Video]()  
 [Report](https://drive.google.com/file/d/1CAZRuW4dOnzVPd56Fh49sJIm4V-vKsD0/view?usp=sharing)  
 [Github - armlab](https://github.com/GoroYeh56/armlab)  
 
