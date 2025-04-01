@@ -23,7 +23,8 @@ redirect_from:
 <!-- My photo in Denmark -->
 <!-- ![Top Photo(Denmark)]() -->
 <!-- keelong -->
-![Keelong Photo](http://goroyeh56.github.io/images/Keelong.jpg)
+<!-- ![Keelong Photo](http://goroyeh56.github.io/images/Keelong.jpg) -->
+![Venice Beach Photo](http://goroyeh56.github.io/images/VeniceBeach.jpg)
 
 ## Table of Contents  
 - [About me](#about-me)

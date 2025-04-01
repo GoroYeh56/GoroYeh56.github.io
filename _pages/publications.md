@@ -13,5 +13,6 @@ author_profile: true
 
 ### Still working on it!
 
-![Denmark group photo](https://i.imgur.com/KZe9UuU.jpg)
+![DeathValley](http://goroyeh56.github.io/images/DeathValley.JPG)
+<!-- ![Denmark group photo](https://i.imgur.com/KZe9UuU.jpg) -->
 
